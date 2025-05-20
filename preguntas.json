@@ -1,0 +1,2174 @@
+{
+    "questions": [
+        {
+            "question": "1. Se quiere hacer una evaluación de 360º a los profesores de la universidad. ¿Cómo habría que llevarla a cabo? Plantea 3 inconvenientes.",
+            "options": [
+                "Evaluar solo a los compañeros de departamento.",
+                "Evaluar a compañeros, alumnos, superiores y autoevaluación.",
+                "Contratar una empresa externa para la evaluación.",
+                "Limitarla a una encuesta a los alumnos."
+            ],
+            "correct": [
+                "b"
+            ],
+            "explanation": "Habría que evaluar a los profesores, tanto sus compañeros de departamento, como los alumnos, como sus superiores y una autoevaluación por parte de los propios profesores. Los inconvenientes que presenta esta evaluación, es que es un método muy costoso y que requiere de mucho tiempo, la polaridad si les gusta el profesor o no les gusta darán unas notas más bajas o altas y por parte de los compañeros del departamento la tendencia central."
+        },
+        {
+            "question": "2. ¿Qué influiría de manera más directa en el rendimiento del empleado? ¿Comisiones o stock options?",
+            "options": [
+                "Stock options, porque incentivan a largo plazo.",
+                "Comisiones, porque son retribución variable a corto plazo.",
+                "Ambas por igual.",
+                "Ninguna, depende del tipo de empresa."
+            ],
+            "correct": [
+                "b"
+            ],
+            "explanation": "Influiría de manera más directa las comisiones ya que se trata de retribución a corto plazo que depende directamente de la actuación del trabajador, si se esfuerza aumentan las ventas y cobra comisión, por lo que su motivación es mayor. El stock options es retribución variable a largo plazo, ya que es una opción de compra de acciones para los empleados, que depende no sólo de los resultados de la empresa el valor de las acciones, si no de circunstancias del mercado que no están en su mano."
+        },
+        {
+            "question": "3. Ejemplo de multidisciplinariedad o triple enfoque para llevar a cabo un sistema de incentivos colectivo que consiste en el reparto de beneficios.",
+            "options": [
+                "Jurídico: normativa; Económico: importe a repartir; Psicológico: impacto en la motivación.",
+                "Técnico: procesos internos; Financiero: análisis de costes; Social: clima laboral.",
+                "Jurídico: contratos; Técnico: herramientas; Operativo: implementación.",
+                "Económico: beneficios; Social: responsabilidad; Cultural: valores."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "- Jurídico: Comprender la normativa vigente sobre el procedimiento para llevar a cabo el reparto de beneficios.\n- Económico: Cantidad en unidades monetarias que se va a repartir y el coste que supone repartir los beneficios sobre los empleados.\n- Psicológico: Ver cómo influye en la motivación de los empleados que este sistema de incentivos sea colectivo."
+        },
+        {
+            "question": "4. ¿Qué es un employer branding o imagen de marca como empleador? Di dos maneras en las que una empresa puede crear una imagen de marca positiva como empleador.",
+            "options": [
+                "Contratar personas con discapacidad o en riesgo de exclusión social.",
+                "Organizar eventos de team building frecuentes.",
+                "Fomentar programas de voluntariado interno.",
+                "Contratar personas de distintas personalidades."
+            ],
+            "correct": [
+                "a",
+                "d"
+            ],
+            "explanation": "Es la reputación de buen empleador entre los empleados y en el mercado.\nDos maneras: Contratar a personas con discapacidad o con riesgo de exclusión social; contratar a personas de distintas personalidades."
+        },
+        {
+            "question": "5. Para evaluar la capacidad de atención al cliente amable de un aspirante: pon dos técnicas de selección y di cómo se llevarían a cabo.",
+            "options": [
+                "Simulación: recrear la devolución de un producto y evaluar la resolución.",
+                "Prueba psicotécnica: test de personalidad para medir reacción ante estrés.",
+                "Entrevista: preguntas situacionales y conductuales.",
+                "Test de habilidades técnicas: evaluación de conocimientos del producto."
+            ],
+            "correct": [
+                "a",
+                "b"
+            ],
+            "explanation": "- Simulación: en una situación que no es real, el evaluador y el evaluado simulan una situación en la que “un cliente” viene a devolver un producto y el evaluado tiene que resolver esa situación.\n- Prueba psicotécnica: se puede hacer un test de personalidad para saber cómo sería su actitud ante situaciones de estrés o tensión para saber cómo se comportaría ante un cliente que se queja de que un producto le vino roto.\n- Entrevista: a través de preguntas situacionales y conductuales."
+        },
+        {
+            "question": "6. Relacionar el enfoque multidisciplinar con la implantación de un sistema de retribución y horario flexible.",
+            "options": [
+                "Sistema de retribución: Económico, Jurídico, Psicológico. Horario flexible: Económico, Jurídico, Psicológico.",
+                "Sistema de retribución: Técnico, Financiero, Operativo. Horario flexible: Social, Cultural, Administrativo.",
+                "Sistema de retribución: Económico, Psicológico, Técnico. Horario flexible: Jurídico, Social, Psicológico.",
+                "Sistema de retribución: Jurídico, Social, Cultural. Horario flexible: Económico, Técnico, Operativo."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "SISTEMA DE RETRIBUCIÓN\n- Económico: Conocer el coste que le va a suponer implantar ese sistema de retribución flexible teniendo en cuenta la situación económico-financiera de la empresa.\n- Jurídico: Conocer cuándo y cómo se puede retribuir al empleado según su contrato.\n- Psicológico: Si el sistema de retribución es competitivo, le producirá motivación al empleado por seguir produciendo y poder cobrar más.\nHORARIO FLEXIBLE\n- Económico: Costes de control de los individuos para que no se produzcan abusos.\n- Jurídico: Conocer el tipo de contrato que tiene la persona para que cumpla con su horario mínimo.\n- Psicológico: Permite la conciliación entre la vida profesional y la personal."
+        },
+        {
+            "question": "7. Explica 3 razones por las cuales el horario flexible tiene coste económico.",
+            "options": [
+                "Costes de mecanismos de control; pérdida de ventas en picos; costes de almacenamiento.",
+                "Mayores salarios fijos; aumento del absentismo; coste de formación.",
+                "Incremento de horas extras; aumento de seguros; pago de dietas.",
+                "Gastos de publicidad; incremento de publicidad salarial; coste de propuestas."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "- Costes de mecanismos de control para que no se produzcan abusos por parte de los empleados.\n- Costes de pérdida de ventas clientes, si el trabajador no está en el momento de mayor pico de ventas de la jornada.\n- Si los empleados de una planta de fabricación acuden a trabajar en momentos en que los camiones no están preparados para salir con la mercancía, tienen costes de almacenamiento."
+        },
+        {
+            "question": "8. En un puesto de piloto y azafata: identificar los factores de evaluación del puesto que deberíamos considerar.",
+            "options": [
+                "Formación, experiencia, habilidades sociales, seguridad de personas.",
+                "Conocimientos técnicos, idiomas, formación académica, salario.",
+                "Antigüedad, formación interna, beneficios sociales, puntualidad.",
+                "Salud, equipo de trabajo, cultura organizativa, clima laboral."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "A partir de hacer un análisis del Análisis de Puestos, tenemos que buscar elementos compensables que sean comunes a los dos puestos y sean discriminantes (no discriminatorios). Estos elementos compensables pueden ser la formación, experiencia, habilidades sociales o seguridad de personas requeridas por el puesto."
+        },
+        {
+            "question": "9. Tres maneras para disminuir las bajas por Incapacidad Temporal (IT).",
+            "options": [
+                "Cursos de prevención de riesgos laborales; reducir incentivos a las bajas; promover buena alimentación.",
+                "Aumentar días de descanso; incrementar licencias; ofrecer mas seguros privados.",
+                "Implementar teletrabajo; aumentar incentivos salariales; flexibilizar jornada.",
+                "Realizar entrevistas de salida; mejorar clima laboral; ofrecer bonus por asistencia."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "- Realizar cursos de prevención de riesgos laborales para evitar accidentes y futuras bajas.\n- Reducir los incentivos a las bajas laborales, no retribuyendo desde el segundo día al trabajador por faltas.\n- Promover la buena alimentación entre los empleados."
+        },
+        {
+            "question": "10. Una guerra en Arabia Saudí: cómo influiría en las ventas y en la motivación de los empleados del sector de la automoción, así como en su retribución.",
+            "options": [
+                "Reducción de ventas de coches; menor comisión; desmotivación de empleados.",
+                "Aumento de ventas por demanda de vehículos militares; mayor comisión; motivación.",
+                "Ventas estables; sin impacto en comisiones; motivación neutra.",
+                "Incremento de costes de producción; aumento de salarios; motivación positiva."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Las ventas de coches se verán reducidas por el incremento en los bienes complementarios que necesitan los coches (el combustible). Si la retribución de los empleados del sector de la automoción está fundamentada en comisiones por unidad vendida, los trabajadores se verán desmotivados porque a menores ventas, menor comisión, y a menor comisión, menor retribución."
+        },
+        {
+            "question": "6. Relacionar el enfoque multidisciplinar con la implantación de un sistema de retribución y horario flexible.",
+            "options": [
+                "Sistema de retribución: Económico, Jurídico, Psicológico. Horario flexible: Económico, Jurídico, Psicológico.",
+                "Sistema de retribución: Técnico, Financiero, Operativo. Horario flexible: Social, Cultural, Administrativo.",
+                "Sistema de retribución: Económico, Psicológico, Técnico. Horario flexible: Jurídico, Social, Psicológico.",
+                "Sistema de retribución: Jurídico, Social, Cultural. Horario flexible: Económico, Técnico, Operativo."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "SISTEMA DE RETRIBUCIÓN\n- Económico: Conocer el coste que le va a suponer implantar ese sistema de retribución flexible teniendo en cuenta la situación económico-financiera de la empresa.\n- Jurídico: Conocer cuándo y cómo se puede retribuir al empleado según su contrato.\n- Psicológico: Si el sistema de retribución es competitivo, le producirá motivación al empleado por seguir produciendo y poder cobrar más.\nHORARIO FLEXIBLE\n- Económico: Costes de control de los individuos para que no se produzcan abusos.\n- Jurídico: Conocer el tipo de contrato que tiene la persona para que cumpla con su horario mínimo.\n- Psicológico: Permite la conciliación entre la vida profesional y la personal."
+        },
+        {
+            "question": "7. Explica 3 razones por las cuales el horario flexible tiene coste económico.",
+            "options": [
+                "Costes de mecanismos de control; pérdida de ventas en picos; costes de almacenamiento.",
+                "Mayores salarios fijos; aumento del absentismo; coste de formación.",
+                "Incremento de horas extras; aumento de seguros; pago de dietas.",
+                "Gastos de publicidad; incremento de publicidad salarial; coste de propuestas."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "- Costes de mecanismos de control para que no se produzcan abusos por parte de los empleados.\n- Costes de pérdida de ventas clientes, si el trabajador no está en el momento de mayor pico de ventas de la jornada.\n- Si los empleados de una planta de fabricación acuden a trabajar en momentos en que los camiones no están preparados para salir con la mercancía, tienen costes de almacenamiento."
+        },
+        {
+            "question": "8. En un puesto de piloto y azafata: identificar los factores de evaluación del puesto que deberíamos considerar.",
+            "options": [
+                "Formación, experiencia, habilidades sociales, seguridad de personas.",
+                "Conocimientos técnicos, idiomas, formación académica, salario.",
+                "Antigüedad, formación interna, beneficios sociales, puntualidad.",
+                "Salud, equipo de trabajo, cultura organizativa, clima laboral."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "A partir de hacer un análisis del Análisis de Puestos, tenemos que buscar elementos compensables que sean comunes a los dos puestos y sean discriminantes (no discriminatorios). Estos elementos compensables pueden ser la formación, experiencia, habilidades sociales o seguridad de personas requeridas por el puesto."
+        },
+        {
+            "question": "9. Tres maneras para disminuir las bajas por Incapacidad Temporal (IT).",
+            "options": [
+                "Cursos de prevención de riesgos laborales; reducir incentivos a las bajas; promover buena alimentación.",
+                "Aumentar días de descanso; incrementar licencias; ofrecer mas seguros privados.",
+                "Implementar teletrabajo; aumentar incentivos salariales; flexibilizar jornada.",
+                "Realizar entrevistas de salida; mejorar clima laboral; ofrecer bonus por asistencia."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "- Realizar cursos de prevención de riesgos laborales para evitar accidentes y futuras bajas.\n- Reducir los incentivos a las bajas laborales, no retribuyendo desde el segundo día al trabajador por faltas.\n- Promover la buena alimentación entre los empleados."
+        },
+        {
+            "question": "10. Una guerra en Arabia Saudí: cómo influiría en las ventas y en la motivación de los empleados del sector de la automoción, así como en su retribución.",
+            "options": [
+                "Reducción de ventas de coches; menor comisión; desmotivación de empleados.",
+                "Aumento de ventas por demanda de vehículos militares; mayor comisión; motivación.",
+                "Ventas estables; sin impacto en comisiones; motivación neutra.",
+                "Incremento de costes de producción; aumento de salarios; motivación positiva."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Las ventas de coches se verán reducidas por el incremento en los bienes complementarios que necesitan los coches (el combustible). Si la retribución de los empleados del sector de la automoción está fundamentada en comisiones por unidad vendida, los trabajadores se verán desmotivados porque a menores ventas, menor comisión, y a menor comisión, menor retribución."
+        },
+        {
+            "question": "11. Describe un ejemplo de proceso de selección de personal de cuatro etapas en el que participe la línea y/o el staff especificando qué tarea corresponde a cada uno y argumentando qué ventajas tiene lo propuesto.",
+            "options": [
+                "Reclutamiento por RRHH; pruebas prácticas por línea; entrevista final por línea; contratación por RRHH.",
+                "Reclutamiento y contratación por línea; pruebas prácticas y entrevista por RRHH.",
+                "Reclutamiento y pruebas prácticas por RRHH; entrevista y contratación por línea.",
+                "Todo el proceso realizado exclusivamente por el departamento de RRHH."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Reclutamiento: Debería hacerlo el departamento de RRHH ya que son los especialistas en buscar a los candidatos. Pruebas prácticas: las realiza la línea por ser expertos en las actividades. Entrevista de selección: la línea escoge a los finalistas. Contratación: RRHH gestiona la parte burocrática."
+        },
+        {
+            "question": "13. ¿Qué debe hacer una empresa a la hora de contratar trabajadores con el objetivo de garantizar la mayor movilidad funcional posible?",
+            "options": [
+                "Incluir en el contrato la mayor cantidad de funciones del grupo profesional en lugar de las del puesto.",
+                "Definir solo las funciones específicas del puesto para claridad.",
+                "Asignar funciones genéricas sin referirse al grupo profesional.",
+                "Establecer una descripción de puesto única y fija."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Para facilitar la movilidad funcional hay que establecer en el contrato la mayor cantidad de funciones del grupo profesional, en lugar de con las del puesto, por ser las primeras más genéricas."
+        },
+        {
+            "question": "14. ¿Qué le aconsejaría a una empresa sobre los grupos profesionales para que se facilitara mucho la movilidad funcional?",
+            "options": [
+                "Tener pocos grupos profesionales para facilitar traslados dentro de ellos.",
+                "Crear muchos grupos profesionales especializados.",
+                "Eliminar los grupos profesionales por completo.",
+                "Mantener grupos profesionales según antigüedad."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Tener pocos grupos profesionales, porque puedes trasladar más a la gente dentro del grupo."
+        },
+        {
+            "question": "16. Un hotel ha despedido a un empleado por despido disciplinario. El juzgado declaró que era procedente. El empleado tenía un sueldo de 50 euros/día y 12 años de antigüedad. ¿Cuánto le corresponde por indemnización?",
+            "options": [
+                "No corresponde indemnización.",
+                "12 días de salario por año trabajado.",
+                "20 días de salario por año trabajado.",
+                "33 días de salario por año trabajado."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Al declararse procedente el despido disciplinario no corresponde indemnización."
+        },
+        {
+            "question": "17. Describe un motivo por el que sea preferible que una empresa opte por la suspensión de la relación laboral por causas económicas en lugar de la extinción.",
+            "options": [
+                "Porque la causa es temporal y se necesitará nuevamente al trabajador.",
+                "Porque es un despido definitivo por motivos estructurales.",
+                "Para evitar el pago de indemnizaciones en todo caso.",
+                "Para desincentivar la contratación futura."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La causa es temporal y puntual, por lo que se va a requerir los servicios del empleado de nuevo (por ejemplo, descenso estacional de ventas durante dos trimestres)."
+        },
+        {
+            "question": "19. Curhotel tiene picos de trabajo en nóminas, impuestos y auditorías. ¿Qué medida de flexibilidad es más apropiada para cada caso considerando el factor económico?",
+            "options": [
+                "Horas extras para nóminas; contrato temporal para impuestos; horas complementarias para auditorías.",
+                "Contrato indefinido para todos los picos; puesto a disposición del empleado; teletrabajo.",
+                "Horas complementarias para nóminas; horas extras para impuestos; contrato temporal para auditorías.",
+                "Teletrabajo para nóminas; rotación de turnos para impuestos; externalización para auditorías."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El método más económico: distribución irregular de la jornada (horas extras) para nóminas e impuestos, contrato temporal para impuestos y horas complementarias para auditorías con 15 días de preaviso."
+        },
+        {
+            "question": "21. El servicio canario de salud usa telemedicina sin teletrabajo ni movilidad ni horario flexible. ¿Utiliza alguna medida de flexibilidad de RRHH?",
+            "options": [
+                "No, no utiliza ninguna medida de flexibilidad.",
+                "Sí, utiliza teletrabajo parcial.",
+                "Sí, aplica movilidad geográfica entre islas.",
+                "Sí, aplica jornada intensiva."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "No hay teletrabajo, ni flexibilidad de horario, ni trabajo compartido, ni movilidad geográfica, por lo que no utiliza ninguna medida de flexibilidad."
+        },
+        {
+            "question": "22. ¿Qué ventajas tiene evaluar un curso de atención al cliente mediante aprendizaje y mediante conducta?",
+            "options": [
+                "Aprendizaje: más barato e inmediato; conducta: más fiable y aplicable.",
+                "Aprendizaje: más fiable; conducta: más barato.",
+                "Aprendizaje: práctico; conducta: teórico.",
+                "Aprendizaje: personal; conducta: colectivo."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Evaluación del aprendizaje: cuestionario barato e inmediato. Evaluación de conducta: más fiable porque comprueba aplicación real de conocimientos y aptitudes."
+        },
+        {
+            "question": "23. TourHotel necesita formación en tres niveles para sus directores en Cabo Verde. ¿Qué necesidades formativas pueden surgir?",
+            "options": [
+                "Organizativo: legislación y cultura; Puesto: idioma y normativas; Humano: nivel de portugués.",
+                "Organizativo: marketing digital; Puesto: gestión de equipos; Humano: habilidades blandas.",
+                "Organizativo: logística; Puesto: informática; Humano: liderazgo.",
+                "Organizativo: finanzas; Puesto: ventas; Humano: idiomas."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Nivel organizativo: legislación del país, costumbres, portugués. Nivel puesto: director necesita portugués avanzado y conocer legislación; jefe de departamento nivel básico. Nivel humano: determinar necesidad de idioma."
+        },
+        {
+            "question": "24. Señala 3 costes de formación para calcular la rentabilidad de un curso online de caja en Mercadona.",
+            "options": [
+                "Zona de trabajo; profesorado; alquiler de ordenadores.",
+                "Coste de marketing; coste de plataforma; coste de tutoría.",
+                "Coste de materiales impresos; coste de electricidad; coste de transporte.",
+                "Coste de licencias de software; coste de exámenes; coste de certificados."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Coste de la zona de trabajo de los participantes, coste de los profesores y coste del alquiler del ordenador empleado."
+        },
+        {
+            "question": "25. ¿Cómo podría evaluarse un curso de calidad en el servicio de atención al cliente y su repercusión en la empresa? (añade información requerida y cómo se obtiene).",
+            "options": [
+                "Variación de la satisfacción del cliente tras el curso mediante encuesta.",
+                "Variación del número de quejas de los clientes.",
+                "Medición del tiempo medio de llamada sin encuesta.",
+                "Análisis del coste del curso sin indicadores de servicio."
+            ],
+            "correct": [
+                "a",
+                "b"
+            ],
+            "explanation": "Variación de la satisfacción del cliente tras el curso a través de una encuesta de satisfacción; variación del número de quejas por parte de los clientes."
+        },
+        {
+            "question": "26. Describe dos recomendaciones para disminuir la subjetividad en la evaluación del rendimiento.",
+            "options": [
+                "Definir comportamientos observables con escala de valoración.",
+                "Emplear resultados cuantitativos (más objetivos).",
+                "Combinar al menos dos métodos de evaluación.",
+                "Usar solo la opinión del superior inmediato."
+            ],
+            "correct": [
+                "a",
+                "b",
+                "c"
+            ],
+            "explanation": "Usar comportamientos observables con escala; emplear resultados; no usar un solo método sino combinar varios."
+        },
+        {
+            "question": "27. Partiendo de la misión de un asesor financiero (“recomendar inversiones adecuadas al perfil del cliente”), indica una variable de resultados, otra de comportamientos y otra de rasgos de personalidad para evaluar su rendimiento.",
+            "options": [
+                "Resultados: cifra de inversiones realizadas.",
+                "Comportamientos: estudio del perfil de cada cliente.",
+                "Rasgos: amabilidad, honestidad y prudencia.",
+                "Resultados: número de llamadas realizadas."
+            ],
+            "correct": [
+                "a",
+                "b",
+                "c"
+            ],
+            "explanation": "Resultados: cifra de inversiones; comportamientos: adapta recomendaciones al perfil; rasgos: amabilidad, honestidad, prudencia."
+        },
+        {
+            "question": "28. Formula un objetivo conceptual, otro de habilidades y otro de actitudes para un curso de Word.",
+            "options": [
+                "Conceptual: saber dónde están y qué son los tabuladores y herramientas de Word.",
+                "Habilidades: manejar las herramientas de diseño de tablas con tabuladores.",
+                "Actitudes: valorar la importancia del uso de Word en el puesto de trabajo.",
+                "Técnico: instalar Word en el ordenador."
+            ],
+            "correct": [
+                "a",
+                "b",
+                "c"
+            ],
+            "explanation": "Conceptual: test sobre tabuladores y tipos de letra; habilidades: ejercicio práctico de tablas; actitudes: entender la relevancia de Word."
+        },
+        {
+            "question": "29. ¿Cómo verificar que el responsable de zona transfiere los conocimientos de un Máster a su puesto tras finalizarlo?",
+            "options": [
+                "Preguntando antes y después del curso a empleados, encargados y proveedores.",
+                "Revisando únicamente los informes financieros de la zona.",
+                "Solicitando al responsable un informe de actividades.",
+                "Observando su desempeño sin comparar periodos."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Preguntando a los empleados, a los encargados, a los proveedores. Se debe comparar antes y después del curso para evaluar el cambio en comportamientos."
+        },
+        {
+            "question": "31. Ejemplo de evaluación 360° para jefes de recepción de TourHotel: quiénes evalúan y objetivos.",
+            "options": [
+                "Compañeros, superiores, clientes externos, subordinados, inspectores y Mystery Shopper.",
+                "Solo clientes externos y superiores.",
+                "Solo compañeros y subordinados.",
+                "Solo inspectores y Mystery Shopper."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Quiénes evalúan: compañeros, superiores (director del hotel), clientes externos, subordinados, inspectores y Mystery Shopper."
+        },
+        {
+            "question": "32. ¿Quiénes evaluarán el desempeño de un conductor de guaguas (puntualidad, trato, cobro, mantenimiento)?",
+            "options": [
+                "Clientes, compañeros, superior, administración y encargado del garaje.",
+                "Solo clientes y administración.",
+                "Solo superior y compañeros.",
+                "Solo administración y encargado de garaje."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Clientes: puntualidad y trato; compañeros: trato en carril; superior: puntualidad inicio jornada; administración: cobros y pagos; encargado de garaje: estado del vehículo."
+        },
+        {
+            "question": "33. Tras resultados Exc. 0%, MB 13%, Correcto 75%, Deficiente 12%, MD 0%, ¿qué error puede haber y consecuencias?",
+            "options": [
+                "Tendencia central, que perjudica a los mejores y desmotiva.",
+                "Polaridad negativa, que perjudica a los peores.",
+                "Efecto Halo, que infla las notas.",
+                "Sesgo de contraste, que favorece comparaciones."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La tendencia central se manifiesta en concentrar evaluaciones en la categoría media, perjudicando a los mejores y desmotivándolos."
+        },
+        {
+            "question": "34. En criterios de un evaluador (Deficiente 70%, Insatisfactorio 25%, Medio 5%, Bueno 0%, MB 0%), ¿qué error comete?",
+            "options": [
+                "Polaridad negativa o severidad, que perjudica a quienes no son malos.",
+                "Tendencia central, que agrupa calificaciones en la media.",
+                "Efecto Halo, que influye de forma positiva.",
+                "Sesgo de comparación, que varía según pares."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Se observa polaridad negativa (severidad excesiva), lo que perjudica a trabajadores competentes y desmotiva al conjunto."
+        },
+        {
+            "question": "35. Redacta un objetivo individual para camareros en una cafetería sobre atención al público y cómo medirlo.",
+            "options": [
+                "Disminuir el tiempo de espera del cliente y medirlo con encuestas antes y después, identificando al camarero.",
+                "Aumentar ventas diarias sin indicador de atención.",
+                "Reducir costes operativos midiendo solo tiempos de cocina.",
+                "Mejorar limpieza del local midiendo inspecciones."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Objetivo: Disminuir el tiempo de espera del cliente. Se mide con encuestas de satisfacción antes y después, incluyendo el nombre del camarero para medir individualmente."
+        },
+        {
+            "question": "37. ¿Qué aconsejarías para incrementar el valor del puesto de técnico informático sin variar los factores existentes?",
+            "options": [
+                "Cambiar la puntuación en conocimientos técnicos de 125 a 150 y disponibilidad horaria de 20 a 30.",
+                "Introducir un nuevo factor, por ejemplo responsabilidad sobre equipos.",
+                "Aumentar la puntuación de habilidades personales.",
+                "Modificar el salario base directamente."
+            ],
+            "correct": [
+                "a",
+                "b"
+            ],
+            "explanation": "Cambiar la puntuación en conocimientos técnicos de 125 a 150 y disponibilidad horaria de 20 a 30. Otra opción sería introducir un factor más, por ejemplo responsabilidad sobre equipos."
+        },
+        {
+            "question": "38. ¿Qué alternativa retributiva motivará más a los vendedores y por qué?",
+            "options": [
+                "Comisión del 5% de las ventas, porque siempre recibirán algo.",
+                "Prima de 500 € al alcanzar 10 000 € vendiendo, porque es un objetivo claro.",
+                "Ambas motivan por igual.",
+                "Ninguna, depende del tipo de vendedor."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La primera opción, comisión del 5%, siempre garantiza una retribución directa por cada venta."
+        },
+        {
+            "question": "39. ¿Cuál sería el grupo de comparación o mercado laboral para evaluar la remuneración de monitores de un gimnasio low cost en GC?",
+            "options": [
+                "Otros gimnasios de tamaño similar y low cost con monitores polivalentes en Gran Canaria.",
+                "Cadenas nacionales de gimnasios premium.",
+                "Gimnasios de alta gama en otras islas.",
+                "Mercado laboral general de España."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El grupo de comparación debe ser gimnasios de tamaño similar y low cost con monitores polivalentes en Gran Canaria."
+        },
+        {
+            "question": "40. ¿Podríamos decir que la empresa que implementa medidas internas de formación, conciliación y mejora retributiva tiene alto employer branding? ¿Por qué?",
+            "options": [
+                "No, porque esas prácticas no están comunicadas al mercado ni a los candidatos.",
+                "Sí, porque mejora la calidad de vida interna.",
+                "Sí, porque ofrece formación y conciliación.",
+                "No, porque solo mejoran salarios."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "No, porque la imagen de marca empleadora depende de lo que transmite al mercado; si no comunica externamente esas prácticas, no mejora su employer branding."
+        },
+        {
+            "question": "41. Redacta dos preguntas para analizar el puesto de trabajo de un médico en un hospital.",
+            "options": [
+                "¿Cuáles son las funciones de su puesto? ¿Cuáles son las funciones más importantes?",
+                "¿Cuál es el sueldo? ¿Cómo es el ambiente de trabajo?",
+                "¿Qué herramientas utiliza? ¿Qué horas de guardia realiza?",
+                "¿Cuántos pacientes atiende al día? ¿Qué turnos tiene?"
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Estas preguntas informan sobre el contenido y las responsabilidades del puesto, útiles para análisis de puestos y selección."
+        },
+        {
+            "question": "42. ¿Qué modalidad de contratación recomendarías para una empresa de catering con estacionalidad en junio, julio y agosto y por qué?",
+            "options": [
+                "Contrato fijo discontinuo, porque permite inactividad temporal sin desvincular al empleado.",
+                "Contrato a tiempo parcial indefinido, porque ajusta horas según la temporada.",
+                "Distribución irregular de la jornada, porque flexibiliza horarios.",
+                "Contrato temporal a tiempo completo, porque cubre solo los meses pico."
+            ],
+            "correct": [
+                "a",
+                "b"
+            ],
+            "explanation": "Contrato fijo discontinuo y contrato a tiempo parcial indefinido permiten adaptar la jornada o inactividad en los meses de menor actividad sin desvincular al trabajador."
+        },
+        {
+            "question": "43. ¿Es condición necesaria para despedir por causas objetivas económicas que la empresa experimente pérdidas o previsión de pérdidas?",
+            "options": [
+                "Sí, solo si hay pérdidas o previsión de las mismas.",
+                "No, también vale una disminución de ingresos durante 3 trimestres consecutivos.",
+                "Sí, siempre debe haber un plan de viabilidad.",
+                "No, basta con tener pérdidas en un trimestre."
+            ],
+            "correct": [
+                "b"
+            ],
+            "explanation": "El despido por causas objetivas económicas también se puede basar en disminución de ingresos durante tres trimestres consecutivos, no solo en pérdidas efectivas."
+        },
+        {
+            "question": "44. ¿Cuál es el problema al contratar a titulados universitarios para un programa de formación de 3 meses con contrato en prácticas?",
+            "options": [
+                "Su duración mínima es de 6 meses y no se puede hacer solo de 3 meses.",
+                "No permite formación remunerada.",
+                "Requiere titulación de master.",
+                "Obliga a conversión a indefinido al terminar."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El contrato en prácticas tiene una duración mínima de 6 meses, por lo que no se puede establecer uno de solo 3 meses."
+        },
+        {
+            "question": "45. ¿Por qué puede ser favorable la conducta tras un curso de técnicas de ventas pero no los resultados de la empresa?",
+            "options": [
+                "Se aplicó mal la formación o no encaja con el mercado y la competencia.",
+                "Los empleados no siguieron las instrucciones.",
+                "El curso no midió la conducta correctamente.",
+                "La empresa no comunicó el curso."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Aunque los empleados aplican lo aprendido (conducta favorable), los resultados pueden verse afectados por el contenido inapropiado de la formación, gustos de clientes o fuerte competencia."
+        },
+        {
+            "question": "46. Enfoque multidisciplinar al introducir horario flexible: relaciona característica con cada disciplina.",
+            "options": [
+                "Psicosociológico: mejora conciliación; Legal: cumple mínimos de descanso; Económico: costes de control.",
+                "Psicosociológico: reduce costes; Legal: aumento jornada; Económico: motiva.",
+                "Psicosociológico: aumenta horas extras; Legal: impone teletrabajo; Económico: elimina control.",
+                "Psicosociológico: fuerza contratación; Legal: reduce vacaciones; Económico: incrementa salarios."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Psicosociológico: aumenta satisfacción y conciliación; Legal/laboral: debe respetar descansos mínimos; Económico: implica costes de control para evitar abusos."
+        },
+        {
+            "question": "47. Rotación del 40% en empaquetado de golosinas: dos motivos de alta rotación no por mala praxis.",
+            "options": [
+                "Jubilaciones masivas y rotación estacional por temporalidad del producto.",
+                "Baja remuneración y mala gestión interna.",
+                "Conflictos laborales y ambiente hostil.",
+                "Falta de formación y exceso de carga."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La rotación puede deberse a jubilaciones y estacionalidad inherente al ciclo de producción de golosinas, no necesariamente a prácticas de la empresa."
+        },
+        {
+            "question": "48. ¿Qué habría que modificar en la tabla de valoraciones para que los informáticos realicen tareas comerciales y por qué?",
+            "options": [
+                "Ponderar al alza los factores comerciales existentes o incluir un nuevo factor orientado a ventas.",
+                "Eliminar el factor de conocimientos técnicos.",
+                "Reducir la puntuación de disponibilidad horaria.",
+                "Aumentar el salario base sin modificar la tabla."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Se debe reponderar los factores que potencien la actividad comercial o bien incluir otro factor dirigido a las ventas, para reflejar la nueva función que asumen los informáticos."
+        },
+        {
+            "question": "49. ¿Cómo usar un bono de 1200 € para motivar a vendedores semestrales con escalones de rendimiento?",
+            "options": [
+                "Establecer niveles: 100% del bono al llegar a 40 000 €, escalones motivadores en 30 000–40 000 € y 25 000–30 000 €.",
+                "Pagar 600 € al vender 20 000 € y 1200 € al llegar a 40 000 €.",
+                "Repartir el bono linealmente según porcentaje de ventas.",
+                "Ofrecer el bono completo solo si superan 50 000 €."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Se fija 100 % del bono para 40 000 €, escalones previos en 30 000–40 000 € y 25 000–30 000 € para mantener la motivación sin desánimo."
+        },
+        {
+            "question": "50. ¿Es correcta la afirmación de valorar en el puesto de trabajo la responsabilidad de mando de la persona?",
+            "options": [
+                "No, porque la evaluación de puestos valora tareas, no características personales.",
+                "Sí, porque la responsabilidad es un rasgo de la persona.",
+                "No, porque solo importan los resultados.",
+                "Sí, porque el puesto exige liderazgo."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La evaluación de puestos valora las tareas y responsabilidades intrínsecas al puesto, no rasgos personales del ocupante."
+        },
+        {
+            "question": "51. Redacta dos ejemplos de objetivos correctamente formulados para valorar el rendimiento de un director de hospital.",
+            "options": [
+                "Reducir el tiempo medio de espera de urgencias en un 15 % en 6 meses; aumentar la satisfacción del paciente en un 10 % en un año.",
+                "Mejorar la comunicación interna; supervisar al personal.",
+                "Aumentar la plantilla según demanda; participar en reuniones.",
+                "Incrementar ingresos sin especificar plazo."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Objetivos SMART: específicos, medibles, alcanzables, relevantes y temporales, como reducir tiempos y aumentar satisfacción con plazos claros."
+        },
+        {
+            "question": "52. Ejemplos de resultados y comportamientos para evaluar a un chofer de guagua.",
+            "options": [
+                "Resultados: número de trayectos concluidos al mes; Comportamientos: conducción diligente y atención cordial a pasajeros.",
+                "Resultados: kilómetros recorridos; Comportamientos: uso de uniforme.",
+                "Resultados: ingresos por billetes; Comportamientos: limpieza del vehículo.",
+                "Resultados: número de reclamaciones; Comportamientos: asistencia a reuniones."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Resultados: número de trayectos al mes. Comportamientos: precaución al conducir, comprobación de parada y trato cordial, menor subjetividad y más objetividad."
+        },
+        {
+            "question": "53. Barco turístico entre islas: ejemplo de factor del entorno (nivel organizativo) y necesidad formativa.",
+            "options": [
+                "Seguridad a bordo: formación en primeros auxilios y evacuación.",
+                "Clima marítimo: formación en meteorología avanzada.",
+                "Turismo cultural: formación en historia local.",
+                "Mantenimiento mecánico: formación en ingeniería naval."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La preocupación creciente por la seguridad a bordo implica necesidad formativa en primeros auxilios, evacuación y protocolos de emergencia."
+        },
+        {
+            "question": "54. Empresa con demanda baja en primera semana de invierno y alta en las siguientes dos: contrato y medida de flexibilidad.",
+            "options": [
+                "Contrato eventual por circunstancias de la producción y distribución irregular de la jornada.",
+                "Contrato indefinido y teletrabajo.",
+                "Contrato en prácticas y horas extras obligatorias.",
+                "Contrato de interinidad y reducción de jornada."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El contrato eventual por circunstancias de producción cubre picos estacionales; la distribución irregular ajusta horas según demanda respetando descansos."
+        },
+        {
+            "question": "55. Nivel de reacción y conducta tras curso de inglés a dependientas de aeropuerto: ejemplos de evaluación.",
+            "options": [
+                "Reacción: cuestionarios de satisfacción; Conducta: número de productos vendidos a clientes angloparlantes.",
+                "Reacción: examen escrito; Conducta: asistencia al curso.",
+                "Reacción: análisis de retorno de inversión; Conducta: número de horas de estudio.",
+                "Reacción: entrevistas con gerencia; Conducta: evaluación de acento."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Se usa encuesta para medir satisfacción (reacción) y se comparan indicadores previos y posteriores como ventas a clientes de habla inglesa (conducta)."
+        },
+        {
+            "question": "56. Puesto de mensajería: criterio de evaluación relacionado con la estrategia de calidad.",
+            "options": [
+                "Porcentaje de entregas sin errores.",
+                "Tiempo medio de entrega.",
+                "Número de paquetes transportados.",
+                "Satisfacción del cliente interno."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "No cometer errores en la entrega de paquetes refuerza la calidad percibida y protege la imagen de la empresa."
+        },
+        {
+            "question": "57. Una empresa de tecnología con 10 trabajadores: contrato para cubrir una vacante inmediata y por qué.",
+            "options": [
+                "Contrato indefinido o de obra/servicio con periodo de prueba.",
+                "Contrato de prácticas con formación.",
+                "Contrato eventual sin periodo de prueba.",
+                "Contrato a tiempo parcial sin cobertura total."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Se recomienda contrato indefinido o por obra/servicio determinado con periodo de prueba para cubrir la vacante según la necesidad permanente o temporal de la empresa."
+        },
+        {
+            "question": "58. ¿Por qué la simulación es efectiva para un curso de comida vegetariana y no para uno de oportunidades de negocio en Sudáfrica?",
+            "options": [
+                "Porque recrea condiciones prácticas (manipulación y cocción de alimentos) y no es útil para seminarios teóricos.",
+                "Porque ambos cursos requieren simulación en igual medida.",
+                "Porque la simulación es costosa para cursos culinarios.",
+                "Porque solo funciona en entornos virtuales."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La simulación recrea instalaciones y condiciones semejantes al puesto de trabajo, ideal para manipulación de alimentos y prácticas culinarias; no es efectiva para cursos de seminarios sobre negocios que son teóricos."
+        },
+        {
+            "question": "59. Para incrementar 2 horas la jornada en Navidad (jueves a domingo) durante 3 semanas, ¿qué instrumento de flexibilidad recomendarías y por qué?",
+            "options": [
+                "Distribución irregular de la jornada, para ajustar horas sin costes de horas extras.",
+                "Horas extras obligatorias, porque es más fácil.",
+                "Contrato temporal, porque cubre los días pico.",
+                "Permisos retribuidos, para reducir jornada."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La distribución irregular de la jornada permite adaptar la carga de trabajo estacional sin incurrir en costes de horas extras y respetando descansos."
+        },
+        {
+            "question": "60. En una empresa de venta y mantenimiento de ordenadores, propone una necesidad formativa basada en el objetivo de ser líderes en atención al cliente.",
+            "options": [
+                "Formación en habilidades comunicativas y cordialidad para servicio postventa.",
+                "Formación en mantenimiento avanzado de hardware.",
+                "Formación en programación de software.",
+                "Formación en gestión financiera."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Para alinearse con el objetivo de liderazgo en atención al cliente, se necesita formar al personal en habilidades comunicativas y cordialidad."
+        },
+        {
+            "question": "61. Un trabajador realiza 98 horas extra en 2014 y las compensa en segundo semestre de 2015. ¿Es correcta esta compensación y por qué?",
+            "options": [
+                "No, porque deben compensarse en los 4 meses siguientes.",
+                "Sí, porque no hay límite temporal.",
+                "No, porque no pueden compensarse con tiempo libre.",
+                "Sí, porque solo importa el número de horas."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La normativa exige compensar las horas extra en los 4 meses siguientes a su realización, no un año más tarde."
+        },
+        {
+            "question": "62. Dos rasgos de personalidad para evaluar a un director de recursos humanos y cómo medirlos.",
+            "options": [
+                "Responsabilidad y amabilidad, medidos con escalas de anclajes conductuales.",
+                "Creatividad y habilidades técnicas, medidos con exámenes escritos.",
+                "Antigüedad y formación, medidos con certificados.",
+                "Conocimientos financieros y idiomas, medidos con tests online."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Responsabilidad y amabilidad son rasgos clave; se miden con escalas de anclajes que definen comportamientos visibles y niveles de desempeño."
+        },
+        {
+            "question": "63. Tras cursos de sutura con exámenes y simulaciones positivas, ¿cómo completarías la evaluación y qué error de valoración puede cometerse?",
+            "options": [
+                "Completar con observación directa en el puesto; error de confiarse de la memoria sin registro escrito.",
+                "Realizar un test adicional teórico; error de no calibrar bien el examen.",
+                "Pedir feedback solo al profesor; error de sesgo de favoritismo.",
+                "Repetir la simulación con otro paciente; error de efecto halo."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Se debe observar directamente en el puesto para conocer el impacto real. Un error es fiarse de la memoria del evaluador sin registrar por escrito el desempeño."
+        },
+        {
+            "question": "64. ¿Qué efectos tiene una exitosa política de employer branding en la tasa básica y el ratio de selección?",
+            "options": [
+                "Aumenta la tasa básica y sube el ratio de selección.",
+                "Reduce la tasa básica y baja el ratio de selección.",
+                "No afecta a la tasa básica ni al ratio.",
+                "Solo aumenta la tasa de retención."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Una buena imagen como empleador atrae más candidatos, incrementando la tasa básica (solicitantes/accesos) y el ratio de selección."
+        },
+        {
+            "question": "65. Para un puesto de azafata de vuelo, describe 3 preguntas y justifícalas.",
+            "options": [
+                "¿Qué funciones del puesto realiza usted? ¿Qué idiomas domina? ¿Cómo maneja situaciones de emergencia?",
+                "¿Cuántos vuelos ha realizado? ¿Qué sueldo desea? ¿Cómo organiza su tiempo libre?",
+                "¿Por qué eligió ser azafata? ¿Cuántas horas trabaja? ¿Qué uniforme prefiere?",
+                "¿Qué herramientas usa? ¿Cómo entra al aeropuerto? ¿Qué redes sociales utiliza?"
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Preguntas abiertas y específicas: funciones (equipaje, atención), idiomas para comunicar, manejo de emergencias por su relevancia al puesto."
+        },
+        {
+            "question": "66. Empresa con objetivo de 1200 unidades y prima de 700 €/mes, ¿qué tipo de valoración es y qué iniciativa planteas?",
+            "options": [
+                "Valoración por primas; escalones de 400 €, 600 € y 700 € según rendimiento.",
+                "Valoración por competencias; formación adicional.",
+                "Evaluación por competencias blandas sin primas.",
+                "Valoración global sin objetivos numéricos."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Es valoración por primas (retribución variable). Se plantean escalones: <700 unidades=400 €, 700–1000=600 €, 1000–1200=700 € para incentivar niveles crecientes."
+        },
+        {
+            "question": "67. ¿Qué ocurre en equidad interna distributiva e individual en un hospital?",
+            "options": [
+                "Distrib.: puestos distintos (cirujano vs enfermero) reciben retribuciones distintas; Indiv.: mismos puestos con distinto rendimiento reciben retribuciones diferentes.",
+                "Distrib.: igualdad salarial; Indiv.: todos cobran igual.",
+                "Distrib.: solo se evalúan beneficios; Indiv.: no se considera rendimiento.",
+                "Distrib.: se externaliza la comparativa; Indiv.: se aplica solo a directivos."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La equidad interna distributiva diferencia según valor del puesto (cirujano vs enfermero). La individual compara dos personas en el mismo puesto, ajustando por desempeño y actitud."
+        },
+        {
+            "question": "68. Para un curso de gestión de inventario, ¿cómo identificar la falta formativa usando inventario de puestos?",
+            "options": [
+                "Revisar inventario de puestos para detectar carencias de habilidades (ej. SPSS) y planificar formación.",
+                "Hacer un test de conocimientos sin analizar el puesto.",
+                "Contratar externos sin evaluar interno.",
+                "Reducir funciones del puesto sin capacitación."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El inventario de puestos muestra capacidades requeridas; comparándolo con perfil actual se detectan carencias (p.ej. uso de SPSS) para planificar formación."
+        },
+        {
+            "question": "69. Pon 3 ejemplos y justifícalos para contratar a un camarero a través de una ETT.",
+            "options": [
+                "Contratación para eventos temporales (bodas, comuniones) y reducción de costes fijos.",
+                "Contratación a largo plazo para rotación continua.",
+                "Contrato indefinido sin pruebas.",
+                "Formación interna obligatoria antes de contratación."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La ETT permite cubrir picos estacionales (verano, eventos) de forma rápida, reduciendo costes fijos y agilizando la selección."
+        },
+        {
+            "question": "70. Tarea y pregunta situacional para un enfermero con escala de valoración.",
+            "options": [
+                "Tarea: atender urgencias; Pregunta: ¿qué haces si llegan pacientes con gripe y rodilla rota? Escala de experiencia y criterio.",
+                "Tarea: administrar medicación; Pregunta: ¿cómo lo harías? Sin escala.",
+                "Tarea: atender urgencias; Pregunta: ¿cómo te sientes? Con escala emocional.",
+                "Tarea: registrar datos; Pregunta: ¿cómo lo harías? Sin escala."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Objetivo claro y situacional: priorizar al paciente más grave. La escala mide desde decisión sin experiencia hasta basada en experiencia y formación."
+        },
+        {
+            "question": "71. Objetivo para mejorar rendimiento de camareros y cómo cumplirlo.",
+            "options": [
+                "Establecer satisfacción del cliente (amabilidad, cortesía) y medirla con libro de opiniones.",
+                "Aumentar número de mesas atendidas sin medir satisfacción.",
+                "Reducir costes operativos mediante menos personal.",
+                "Incrementar ventas en barra sin feedback."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Objetivo centrado en satisfacción (amabilidad, simpatía) con indicador medible: encuestas o libro de opiniones que identifique al camarero."
+        },
+        {
+            "question": "72. ¿Se puede hacer movilidad funcional de ingenieros informáticos para asumir funciones del jefe enfermo?",
+            "options": [
+                "Sí, comparten cualificación académica y grupo profesional.",
+                "No, requieren distinta formación específica de dirección.",
+                "Sí, pero solo con contrato temporal.",
+                "No, movilidad funcional es ilegal."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Al pertenecer al mismo grupo profesional y tener igual titulación, pueden asumir temporalmente funciones de jefe."
+        },
+        {
+            "question": "73. Error cometido cuando 7 trabajadores obtienen la misma puntuación en evaluación de rendimiento.",
+            "options": [
+                "Polaridad o severidad, notas centradas sin reflejar diferencias.",
+                "Efecto halo, inflar todas las notas.",
+                "Tendencia central, agrupar en la media.",
+                "Sesgo de contraste, comparar entre pares."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El evaluador ha mostrado polaridad negativa (severidad), asignando puntuaciones uniformes que no reflejan desempeño real."
+        },
+        {
+            "question": "74. Tres preguntas para comprobación de referencias.",
+            "options": [
+                "¿Volvería a contratar al candidato? ¿Cómo valoraría su rendimiento? ¿Cómo era su relación con el equipo?",
+                "¿Cuál era su salario? ¿Qué puesto ocupaba? ¿Cuál era su horario?",
+                "¿Qué formación tiene? ¿Dónde estudió? ¿Qué idiomas habla?",
+                "¿Cuál es su correo? ¿Cuál es su dirección? ¿Cuál es su DNI?"
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Preguntas: volvería a contratar (satisfacción), valoración de rendimiento pasado (principio de consistencia) y relación con equipo (adaptación y habilidades sociales)."
+        },
+        {
+            "question": "75. Redacta 3 objetivos de conocimientos, habilidades y actitudes para un curso sobre trabajo en equipo.",
+            "options": [
+                "Conocimientos: organización del trabajo, estructura óptima de equipo, técnicas de consenso; Habilidades: formar equipos coordinados, convencer compañeros, ayudar a miembros; Actitudes: valorar la importancia del trabajo en equipo para objetivos organizativos y éxito empresarial.",
+                "Conocimientos: gestión de proyectos; Habilidades: programación; Actitudes: competitividad.",
+                "Conocimientos: finanzas; Habilidades: análisis; Actitudes: individualismo.",
+                "Conocimientos: marketing; Habilidades: ventas; Actitudes: liderazgo autoritario."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Objetivos: Conocer formas de organizar equipos y técnicas de consenso; desarrollar habilidades de coordinación, persuasión y apoyo al equipo; fomentar actitudes de valoración del trabajo en equipo para alcanzar objetivos organizativos y empresariales."
+        },
+        {
+            "question": "76. Dos indicadores de resultado del rendimiento de una dependienta de Decathlon e inconvenientes.",
+            "options": [
+                "Incremento de ventas; satisfacción del cliente — inconveniente: estacionalidad puede distorsionar ventas.",
+                "Número de horas trabajadas; puntualidad — inconveniente: no mide calidad.",
+                "Asistencia a formación; evaluaciones internas — inconveniente: costosas.",
+                "Rentabilidad por metro cuadrado; rotación de inventario — inconveniente: complejo."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Indicadores: incremento de ventas y satisfacción de clientes. Inconveniente: ventas pueden aumentar por estacionalidad (compra de material de verano), no por desempeño."
+        },
+        {
+            "question": "77. Comentar renunciar a vacaciones a cambio de trabajar para cobrar lo mismo.",
+            "options": [
+                "No procede: las vacaciones son un derecho irrenunciable y se cobra igual que trabajando.",
+                "Es válido si ambas partes lo acuerdan.",
+                "Se puede negociar en convenio colectivo.",
+                "Procede si el empleado lo solicita por escrito."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Las vacaciones son un derecho irrenunciable y durante ellas se cobra igual que trabajando, por lo que no tiene sentido renunciar a ellas para mantener salario."
+        },
+        {
+            "question": "78. Dos preguntas situacionales para una entrevista de secretaria y por qué son aptas.",
+            "options": [
+                "¿Qué haría si recibe una llamada sin saber la respuesta? ¿Con qué criterio ordenaría documentos? — porque evalúan resolución de incertidumbre y capacidad de organización.",
+                "¿Cuántas llamadas hace al día? ¿Qué horario prefiere? — porque mide cantidad y preferencia.",
+                "¿Qué software usa? ¿Qué ropa llevaría? — porque mide conocimientos técnicos y vestimenta.",
+                "¿Por qué quiere el puesto? ¿Cuál es su expectativa salarial? — porque mide motivación."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Preguntas adecuadas: evalúan cómo afronta situaciones inciertas y su criterio de organización, aspectos esenciales para una secretaria."
+        },
+        {
+            "question": "79. Ejemplo de horario flexible para personal administrativo de una empresa de construcción.",
+            "options": [
+                "Permitir comenzar una hora antes para salir una hora antes, cumpliendo horas diarias.",
+                "Fijar entrada a las 9 h y salida a las 17 h sin cambios.",
+                "Distribuir horas sin criterio y sin control.",
+                "Eliminar descansos obligatorios durante el día."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Ejemplo: empleados pueden iniciar jornada a las 7 h y terminar a las 14 h, siempre cumpliendo el total de horas diarias, evitando absentismo y mejorando conciliación."
+        },
+        {
+            "question": "80. Plan formativo basado en diagnóstico de necesidades del entorno exterior para venta de bebidas energéticas: ¿qué objetivos formativos, técnicas, medios necesarios y evaluadores propondrías?",
+            "options": [
+                "Objetivos: manejo de la nueva máquina reguladora de azúcar; Técnica: formación práctica en planta; Medios: manuales y simulador; Evaluadores: supervisores de producción.",
+                "Objetivos: reducción de costes; Técnica: seminario online; Medios: presentaciones; Evaluadores: departamento de marketing.",
+                "Objetivos: aumentar ventas; Técnica: coaching comercial; Medios: CRM; Evaluadores: gerencia.",
+                "Objetivos: mejorar imagen de marca; Técnica: e-learning; Medios: vídeos corporativos; Evaluadores: RRHH."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Objetivos claros en uso de la máquina reguladora de azúcar; técnica práctica y manuales; medios como simulador y manual; evaluadores supervisores de producción que conocen el proceso."
+        },
+        {
+            "question": "81. Sustitución de trabajador de baja de 15 días: ¿qué contrato ideal recomendarías y por qué?",
+            "options": [
+                "Contrato de interinidad por sustitución, porque cubre la reserva de puesto solo por el tiempo de la baja.",
+                "Contrato eventual por circunstancias de la producción, porque es sencillo de gestionar.",
+                "Acudir a ETT, porque aporta rapidez sin proceso de selección.",
+                "Contrato indefinido, para dar estabilidad al puesto."
+            ],
+            "correct": [
+                "a",
+                "c"
+            ],
+            "explanation": "El contrato de interinidad cubre la baja con reserva de puesto; la ETT permite cubrir rápidamente sin selección y formación largos."
+        },
+        {
+            "question": "82. Dos objetivos SMART para un asesor financiero que recomienda inversiones según perfil:",
+            "options": [
+                "Aumentar en un 10% el volumen de inversiones en 1 año; Diseñar 3 nuevos planes de inversión durante mayo.",
+                "Mejorar satisfacción de clientes; Incrementar número de reuniones.",
+                "Reducir costes operativos; Formar al equipo internamente.",
+                "Incrementar beneficios sin plazo; Aumentar cartera de clientes."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Objetivos SMART: específicos (10% y 3 planes), medibles, alcanzables, relevantes y con plazo temporal (1 año y mes de mayo)."
+        },
+        {
+            "question": "83. Empresa con medidas internas de formación, conciliación y mejora retributiva: ¿tiene alto employer branding? ¿Por qué?",
+            "options": [
+                "No, porque no comunica externamente ni evalúa percepción del mercado.",
+                "Sí, porque mejora calidad de vida interna.",
+                "Sí, porque implanta medidas de conciliación.",
+                "No, porque solo importa la retribución."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El employer branding depende de la comunicación y percepción externa; sin difusión y evaluación de mercado, no mejora la imagen de marca."
+        },
+        {
+            "question": "84. Dos preguntas para analizar el puesto de un médico de hospital y justificarlas.",
+            "options": [
+                "¿Qué funciones desempeña en su puesto? ¿Qué conocimientos se requieren? — porque permiten conocer contenido y requisitos del puesto.",
+                "¿Cuál es su salario? ¿Cómo es su horario? — porque miden condiciones laborales.",
+                "¿Qué software médico usa? ¿Qué guardias hace? — porque evalúan tecnología y tiempo.",
+                "¿Cómo se relaciona con colegas? ¿Qué medicamentos prefiere? — porque miden relaciones y preferencias."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Las preguntas abiertas sobre funciones y conocimientos revelan el contenido del puesto y requisitos, fundamentales para análisis de puestos."
+        },
+        {
+            "question": "85. Modalidad de contratación apropiada para catering escolar con actividad reducida en junio, julio y agosto y por qué.",
+            "options": [
+                "Contrato fijo discontinuo, porque permite suspender actividad en meses de baja demanda.",
+                "Contrato temporal de obra, porque cubre solo proyectos puntuales.",
+                "Contrato de interinidad, porque sustituye bajas.",
+                "Contrato indefinido a tiempo completo, porque da estabilidad."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El contrato fijo discontinuo permite mantener plantilla estable y suspender la actividad durante los meses de menor demanda; el contrato a tiempo parcial indefinido también podría reducir horas, pero el fijo discontinuo es específico para periodos estacionales."
+        },
+        {
+            "question": "86. ¿Es condición necesaria para despido objetivo económico que la empresa experimente pérdidas o previsión de pérdidas?",
+            "options": [
+                "No, también basta con disminución de ingresos durante tres trimestres consecutivos.",
+                "Sí, solo si hay pérdidas reales.",
+                "Sí, siempre debe existir previsión de pérdidas.",
+                "No, basta con un solo trimestre en pérdidas."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La normativa permite el despido objetivo por causas económicas basándose en disminución de ingresos durante tres trimestres consecutivos, no exclusivamente en pérdidas reales o previstas."
+        },
+        {
+            "question": "87. ¿Qué habría que modificar en la tabla de valoración para que los informáticos hagan tareas de comerciales y por qué?",
+            "options": [
+                "Ponderar al alza los factores comerciales o incluir un nuevo factor de ventas para reflejar la nueva función.",
+                "Eliminar el factor de conocimientos técnicos.",
+                "Reducir la puntuación de disponibilidad horaria.",
+                "Aumentar el salario base sin cambiar la tabla."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Para reflejar las nuevas funciones comerciales de los informáticos, se deben ajustar las ponderaciones de los factores comerciales existentes o incluir un factor específico de ventas."
+        },
+        {
+            "question": "88. ¿Cómo usar un bono de 1200 € para motivar a vendedores con objetivo de 40 000 € semestrales sin desanimarlos?",
+            "options": [
+                "Establecer escalones: 600 € por 10 000–20 000 €; 1200 € por 40 000 €.",
+                "Pagar 1200 € solo al alcanzar 40 000 € sin niveles intermedios.",
+                "Repartir bono linealmente según porcentaje de ventas.",
+                "Ofrecer 600 € por solo 5 000 € vendidos."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Se establecen niveles de rendimiento intermedios (10 000–20 000 €) con 600 € para mantener la motivación y 1200 € al alcanzar el objetivo completo."
+        },
+        {
+            "question": "89. ¿Es correcta la afirmación de que en valoración de puestos un empleado con más liderazgo cobrará más?",
+            "options": [
+                "No, la valoración de puestos mide tareas y responsabilidades, no características personales.",
+                "Sí, porque el liderazgo es un rasgo valorado.",
+                "No, solo importa la antigüedad.",
+                "Sí, siempre se paga por habilidades blandas."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La valoración de puestos de trabajo se basa en las tareas y responsabilidades del puesto, no en el desempeño individual o rasgos de la persona."
+        },
+        {
+            "question": "90. Dos ejemplos de objetivos para evaluar rendimiento de un director de hospital.",
+            "options": [
+                "Aumentar pacientes atendidos en urgencias un 10% en 6 meses; reducir listas de espera un 20% en un año.",
+                "Mejorar comunicación interna; aumentar número de reuniones.",
+                "Incrementar presupuesto sin plazo definido; mejorar infraestructura.",
+                "Aumentar satisfacción sin indicadores numéricos; reducir costes sin objetivo claro."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Objetivos SMART: específicos (10% de urgencias, 20% listas de espera), medibles, alcanzables y con plazo temporal definido."
+        },
+        {
+            "question": "91. Problema con contrato de prácticas para formar titulados universitarios en base de datos durante 3 meses.",
+            "options": [
+                "El contrato en prácticas mínimo es de 6 meses, no de 3.",
+                "No permite remuneración.",
+                "Obliga a conversión a indefinido al término.",
+                "Exige titulación de máster."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El contrato en prácticas tiene una duración mínima de 6 meses, por lo que no se puede hacer uno de solo 3 meses."
+        },
+        {
+            "question": "92. Curso de técnicas de ventas: conducta favorable pero resultados no. ¿Qué puede estar pasando?",
+            "options": [
+                "El producto es malo o la técnica no encaja con el mercado y crisis económica.",
+                "Los empleados no aplicaron la formación.",
+                "El curso no cubrió técnicas suficientes.",
+                "La medición de resultados es incorrecta."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Aunque la conducta tras la formación es correcta, los resultados pueden fallar por características del producto, técnica inapropiada o contexto económico adverso."
+        },
+        {
+            "question": "93. Enfoque multidisciplinar al implantar horario flexible: argumenta legal, sociológico y económico.",
+            "options": [
+                "Legal: respetar descansos; Sociológico: mejora conciliación; Económico: costes de control.",
+                "Legal: aumentar jornada; Sociológico: reduce satisfacción; Económico: ahorra costes.",
+                "Legal: obliga teletrabajo; Sociológico: aísla trabajadores; Económico: incrementa costes.",
+                "Legal: elimina descansos; Sociológico: mejora productividad; Económico: no hay coste."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Legal-laboral: cumplir descansos y jornada máxima; psicosociológico: mejora satisfacción y conciliación; económico: implica costes de control para evitar abusos."
+        },
+        {
+            "question": "94. Rotación del 40% en empaquetado: dos motivos no atribuibles a mala praxis.",
+            "options": [
+                "Contratos temporales por estacionalidad; jubilaciones; introducción de nueva maquinaria.",
+                "Baja remuneración; mala gestión.",
+                "Conflictos laborales; clima hostil.",
+                "Falta de formación; exceso de carga."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La alta rotación puede deberse a contratos temporales por estacionalidad, jubilaciones e introducción de maquinaria nueva, no a malas prácticas."
+        },
+        {
+            "question": "95. Movilidad funcional para cubrir baja de comercial de pymes: ¿es posible y por qué?",
+            "options": [
+                "Sí, porque pertenecen al mismo grupo profesional.",
+                "No, requiere acuerdo individual.",
+                "Sí, solo con modificación sustancial.",
+                "No, es ilegal sin formación específica."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La movilidad funcional está permitida si los trabajadores pertenecen al mismo grupo profesional, independientemente de su puesto habitual."
+        },
+        {
+            "question": "96. ¿Qué alternativa retributiva motivará más a los vendedores: comisión 5% o bono 500€ por 10 000€? Dos motivos.",
+            "options": [
+                "Comisión 5%, porque garantiza ingreso por venta y no tiene techo.",
+                "Bono 500€, porque es claro y alcanzable.",
+                "Ambas igual, depende de la persona.",
+                "Ninguna, motiva un mix."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La comisión motiva más: siempre hay ingreso por venta y no hay límite máximo como en el bono, favoreciendo la motivación continua."
+        },
+        {
+            "question": "97. Modalidad de contrato para ingeniero informático que desarrolle una APP de reclutamiento para catering.",
+            "options": [
+                "Contrato por obra o servicio determinado.",
+                "Contrato indefinido.",
+                "Contrato de interinidad.",
+                "Contrato en prácticas."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El contrato por obra o servicio es adecuado para proyectos con autonomía y sustantividad propia dentro de la actividad habitual."
+        },
+        {
+            "question": "98. Coste de ampliar plantilla: 2 recepcionistas tiempo completo 2 meses con salario 1000€ más 30% SS. ¿Cuál es y cómo se calcula?",
+            "options": [
+                "5200€ — 2×2×1000€ + 30% de cotización (1200€).",
+                "4000€ — 2×2×1000€ sin cotización.",
+                "6200€ — añadiendo 50% de cotización.",
+                "2400€ — 2×2×600€ con cotización incluida."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Cálculo: 2 recepcionistas × 2 meses × 1000€ = 4000€. + 30% SS: 4000×0.30 = 1200€. Total = 5200€."
+        },
+        {
+            "question": "99. Ejemplo de problema de equidad interna retributiva en un hospital y por qué es apropiado.",
+            "options": [
+                "Un celador gana más que un enfermero, pese a menor complejidad del puesto.",
+                "Dos enfermeros cobran igual pese a distinta antigüedad.",
+                "Un cirujano gana menos que su auxiliar.",
+                "Un administrativo y un enfermero cobran igual."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Problema: el celador (menor complejidad) recibe salario superior al enfermero (mayor complejidad), rompiendo la equidad interna."
+        },
+        {
+            "question": "100. Test online a empleados para nivel de conocimientos previos sobre hábitos de vida de deportistas: ¿qué nivel de diagnóstico de necesidades es?",
+            "options": [
+                "Análisis a nivel individual de RR.HH., detectando carencias formativas de personas.",
+                "Nivel organizativo, analizando objetivos de empresa.",
+                "Nivel de puesto, detectando tareas requeridas.",
+                "Nivel sociológico, evaluando clima."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Se trata de diagnóstico a nivel de personas (nivel individual) para comprobar si requieren formación según conocimientos actuales."
+        },
+        {
+            "question": "101. Tarea para director comercial de concesionario y pregunta conductual basada en experiencia.",
+            "options": [
+                "Tarea: seleccionar vendedores; Pregunta: ¿qué preguntas formuló al seleccionar personal en su anterior puesto?",
+                "Tarea: aumentar ventas; Pregunta: ¿cómo aumentaría ventas?",
+                "Tarea: gestionar stock; Pregunta: ¿cómo gestionaría inventario?",
+                "Tarea: diseñar campañas; Pregunta: ¿qué medios usaría?"
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Tarea en infinitivo con propósito (seleccionar vendedores). Pregunta conductual basada en experiencia previa y referida a situación real."
+        },
+        {
+            "question": "102. Dos situaciones para usar ETT en restaurante.",
+            "options": [
+                "Evento de catering puntual; temporada alta de verano; sustitución por baja.",
+                "Contrato indefinido sin selección; formación interna.",
+                "Contratación de directivo; cambio de local.",
+                "Fusión empresarial; traslado de sede."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "ETT cubre necesidades temporales: eventos especiales, picos de verano y sustituciones por bajas."
+        },
+        {
+            "question": "103. Absentismo 15% IT: recomendar modificar complementos o control de presencia y por qué.",
+            "options": [
+                "Modificar complementos por baja, para no incentivar prolongación de bajas.",
+                "Instalar control de presencia, para evitar fraudes.",
+                "Reducir salario durante bajas, para disuadir absentismo.",
+                "Ofrecer teletrabajo, para mejorar asistencia."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Modificar complementos aborda incentivos a prolongar bajas; un control de presencia no impide bajas justificadas."
+        },
+        {
+            "question": "104. Escala anual de 1-7 con 92% en 7 y 8% en 6: ¿qué error y qué medida para evitarlo?",
+            "options": [
+                "Polaridad por benevolencia; formar al evaluador para usar todo rango.",
+                "Efecto halo; separar evaluaciones.",
+                "Tendencia central; obligar a extremos.",
+                "Sesgo de contraste; usar comparaciones."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El evaluador muestra polaridad benévola al usar mayoritariamente el valor máximo. Se puede entrenar para distribuir mejor las valoraciones."
+        },
+        {
+            "question": "105. Tres preguntas para evaluar la reacción tras formación 2017 y por qué.",
+            "options": [
+                "¿Le ha parecido útil la formación? ¿Ha estado adecuado el profesorado? ¿Le ha servido para mejorar su trabajo?",
+                "¿Cuánto dinero costó el curso? ¿Dónde se impartió? ¿Quién lo financió?",
+                "¿Qué objetivos alcanzó? ¿Cómo se midió? ¿Qué resultados obtuvo?",
+                "¿Cuál es su nivel de satisfacción general? ¿Qué cambiaría? ¿Cómo lo evaluaría?"
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Estas preguntas miden la reacción inmediata de los participantes sobre utilidad, calidad del profesorado y aplicación al trabajo."
+        },
+        {
+            "question": "106. ¿Por qué es problemático centrar una encuesta salarial de administrativos solo en construcción?",
+            "options": [
+                "Porque el puesto existe en otros sectores; hay que comparar con todos los administrativos.",
+                "Porque la construcción no tiene administrativos.",
+                "Porque no hay datos disponibles en ese sector.",
+                "Porque solo se debe comparar con empresas grandes."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El puesto de administrativo es común a múltiples sectores, limitarse al sector construcción sesgaría la comparativa salarial."
+        },
+        {
+            "question": "107. Triple enfoque de un sistema de incentivos: psicológico, económico y legal.",
+            "options": [
+                "Psicológico: ajustar según rasgos y capacidades; Económico: estudiar coste y rentabilidad; Legal: cumplir convenio y mínimas.",
+                "Psicológico: definir objetivos; Económico: eliminar costes; Legal: no aplicar convenio.",
+                "Psicológico: motivar solo con dinero; Económico: reducir salarios; Legal: evitar contratos.",
+                "Psicológico: ignorar perfil; Económico: aumentar presupuesto; Legal: omitir normativa."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Enfoque completo: valorar perfil psicológico, analizar coste-beneficio económico y respetar marco legal."
+        },
+        {
+            "question": "109. Evaluación de formación de atención al cliente según cuatro niveles.",
+            "options": [
+                "Reacción: satisfacción; Aprendizaje: test de conocimientos; Conducta: observación en puesto; Resultado: satisfacción cliente.",
+                "Reacción: ventas; Aprendizaje: encuestas; Conducta: exámenes; Resultado: costes.",
+                "Reacción: clima laboral; Aprendizaje: entrevistas; Conducta: simulaciones; Resultado: beneficios.",
+                "Reacción: feedback 360; Aprendizaje: pruebas psicotécnicas; Conducta: coaching; Resultado: retención."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El modelo Kirkpatrick: medir reacción, aprendizaje, comportamiento y resultados."
+        },
+        {
+            "question": "110. Tres acciones para mejorar la imagen de marca como empleador.",
+            "options": [
+                "Publicar ofertas en web; recompensar con viajes; ofrecer productos de calidad.",
+                "Reducir salarios; aumentar horas; eliminar beneficios.",
+                "Organizar fiestas internas; evaluar empleados; centralizar procesos.",
+                "Contratar solo externos; no comunicar; no innovar."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Acciones: visibilidad de vacantes, reconocimiento anual y calidad de producto que refleje valores positivos."
+        },
+        {
+            "question": "111. Proceso de selección en cuatro fases para recepcionista: quién y ventajas.",
+            "options": [
+                "Cuestionario biográfico, preselección, pruebas, entrevista final — todo por staff por especialización y coherencia.",
+                "Solo entrevista técnica por la línea.",
+                "Pruebas psicotécnicas y coaching por RRHH.",
+                "Dinámicas de grupo y test online por la línea."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El staff realiza las fases por su expertise en reclutamiento y filtros, asegurando calidad y adecuación a requisitos."
+        },
+        {
+            "question": "112. Dos preguntas situacionales para chofer de guaguas y utilidad.",
+            "options": [
+                "¿Qué haría si un pasajero no tiene billete válido? ¿Qué haría si un pasajero se desmaya? — evalúan resolución de incidencias y atención al pasajero.",
+                "¿Cuál es su experiencia? ¿Qué tipo de vehículo prefiere? — no situacionales.",
+                "¿Cómo ajusta rutas? ¿Con qué frecuencia descansa? — mide planificación.",
+                "¿Qué hace en emergencias? ¿Cómo llena informes? — menos relevantes."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Preguntas basadas en situaciones reales que permiten evaluar la capacidad de resolución y atención del conductor."
+        },
+        {
+            "question": "113. Para una promoción interna, ¿vale el inventario de puestos o el inventario de RRHH?",
+            "options": [
+                "Ambos: inventario de puestos conoce actividades y requerimientos, inventario de RRHH muestra formación disponible.",
+                "Solo inventario de puestos, porque indica tareas.",
+                "Solo inventario de RRHH, porque muestra formación.",
+                "Ninguno, se hace entrevista directa."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El inventario de puestos describe las actividades y características requeridas; el de RRHH informa sobre la formación de los empleados para evaluar su adecuación."
+        },
+        {
+            "question": "114. Al contratar una empresa de seguridad para un centro comercial, ¿qué debes verificar?",
+            "options": [
+                "Alta en la Seguridad Social, elementos de producción propios y organización estable.",
+                "Solo la experiencia de los vigilantes.",
+                "El nombre comercial de la empresa.",
+                "El uniforme de los empleados."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Es esencial que la empresa de seguridad esté legalmente constituida: trabajadores dados de alta, tenga medios propios y una estructura organizativa estable."
+        },
+        {
+            "question": "115. ¿Es legal organizar el trabajo y uniformar al personal de la empresa de seguridad contratada?",
+            "options": [
+                "No, es ilegal; esas funciones corresponden a la empresa de servicios.",
+                "Sí, es parte del contrato de prestación de servicios.",
+                "Solo si lo autoriza el convenio colectivo.",
+                "Depende de la antigüedad del contrato."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Organizar el trabajo y establecer uniformes es responsabilidad de la empresa de servicios, no de la empresa cesionaria; imponerlo es ilegal."
+        },
+        {
+            "question": "116. Para seleccionar personas que trabajan en equipo, ¿qué prueba usarías?",
+            "options": [
+                "Dinámica de grupo, para observar habilidades de argumentación y colaboración.",
+                "Prueba psicotécnica individual.",
+                "Entrevista telefónica.",
+                "Test de conocimientos técnicos."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Las dinámicas de grupo permiten evaluar directamente la interacción, comunicación y habilidades colaborativas entre candidatos."
+        },
+        {
+            "question": "117. En entrevista: ¿Usted se desenvuelve bien en situaciones tensas? ¿Qué error tiene y cómo corregir la pregunta?",
+            "options": [
+                "Es cerrada; debe preguntarse: “¿Qué haría si surge una situación tensa en el trabajo?”",
+                "Es irrelevante; mejor preguntar por experiencia previa.",
+                "Es excesivamente larga; acortar la pregunta.",
+                "No requiere corrección; es adecuada."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La pregunta cerrada solo admite sí/no. La reformulación situacional abierta permite evaluar el comportamiento real del candidato."
+        },
+        {
+            "question": "118. Si aplicas solo el enfoque psicológico en RRHH, ¿qué error cometes?",
+            "options": [
+                "Ignoras aspectos económicos y legales esenciales para la rentabilidad y cumplimiento normativo.",
+                "Fallas en el análisis sociológico del clima laboral.",
+                "No evalúas la formación técnica.",
+                "No identificas competencias clave."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Centrarse solo en rasgos y personalidad deja de lado la viabilidad económica y los requisitos legales del contrato."
+        },
+        {
+            "question": "119. ¿Cómo analizarías un puesto de chofer de guaguas? ¿Qué técnicas usarías?",
+            "options": [
+                "Combinación de observación directa, entrevistas con el superior y cuestionarios.",
+                "Solo prueba de conducir.",
+                "Solo test psicométricos.",
+                "Solo análisis de indicadores de viaje."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La combinación de técnicas ofrece una visión integral: observación en contexto real, información del superior y percepción del propio trabajador."
+        },
+        {
+            "question": "120. “María no ha fallado en 7 años”, ¿qué comentarías?",
+            "options": [
+                "No es suficiente; puede haber sesgos como principio de Peter o efecto halo.",
+                "Es una garantía absoluta de aptitud.",
+                "Sugiere alta motivación y no requiere más evaluación.",
+                "Impide la promoción por excesiva experiencia."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Un historial sin fallos puede reflejar sesgos de evaluación o efecto halo, no necesariamente competencia para el nuevo puesto."
+        },
+        {
+            "question": "121. Absentismo justificado alto por enfermedad o accidente, ¿qué analizarías?",
+            "options": [
+                "Los puestos de trabajo para identificar sobreesfuerzos o diseño inadecuado.",
+                "El clima laboral exclusivamente.",
+                "La formación recibida.",
+                "La política de vacaciones."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Altos niveles de bajas justificadas indican posibles deficiencias en ergonomía, carga de trabajo o condiciones del puesto."
+        },
+        {
+            "question": "122. Muchos empleados se van: ¿qué método usarías para saber por qué?",
+            "options": [
+                "Entrevistas de salida y revisión de políticas de selección y retención.",
+                "Encuestas de clima al azar.",
+                "Análisis de productividad.",
+                "Monitoreo de redes sociales."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Las entrevistas de salida brindan información directa de motivos de marcha; complementarlas con revisión de políticas ayuda a mejorar retención."
+        },
+        {
+            "question": "123. En una empresa con absentismo del 15% por IT, ¿es mejor ofrecer complementos salariales o aplicar horarios flexibles? ¿Por qué?",
+            "options": [
+                "Aplicar horarios flexibles para permitir adaptación y descanso, evitando incentivar bajas.",
+                "Ofrecer complementos salariales para compensar ausencias.",
+                "Eliminar descansos para reducir ausencias.",
+                "Imponer trabajo remoto solo para enfermos."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El horario flexible permite a los trabajadores conciliar y descansar mejor, mientras que los complementos salariales podrían incentivar el absentismo."
+        },
+        {
+            "question": "124. Para la seguridad de un almacén, ¿contratar ETT o empresa de servicios? ¿Qué es mejor y por qué?",
+            "options": [
+                "Empresa de servicios, porque aporta estructura y medios propios.",
+                "ETT, porque es más barata.",
+                "Contrato temporal directo, sin intermediarios.",
+                "Freelance individual."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La empresa de servicios dispone de plantilla y organización estables, a diferencia de la ETT que es más adecuada para picos temporales."
+        },
+        {
+            "question": "125. Tres motivos que indiquen cesión ilegal entre un centro comercial y empresa de limpieza.",
+            "options": [
+                "La empresa de limpieza no tiene medios propios, no tiene organización estable y no ejerce funciones empresariales.",
+                "Los limpiadores cobran más que directivos.",
+                "Se les da uniforme diferente.",
+                "Trabajan fines de semana."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La falta de medios, organización y facultades empresariales propias son indicios de cesión ilegal."
+        },
+        {
+            "question": "127. Dos variables del inventario de RRHH útiles para movilidad funcional y ejemplo.",
+            "options": [
+                "Formación y conocimientos específicos, por ejemplo un empleado de embotellado con conocimientos de reparto.",
+                "Antigüedad y edad.",
+                "Sexo y nacionalidad.",
+                "Salario y horario."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La formación y conocimientos permiten reubicar empleados (e.g., de embotellado a reparto si domina logística y producto)."
+        },
+        {
+            "question": "128. ¿Qué retribución elegiría un vendedor: 5% comisión o 500€ por 10 000€ ventas? ¿Por qué?",
+            "options": [
+                "5% comisión, porque garantiza ingreso proporcional y puede superar el bono al vender más.",
+                "500€ bono, porque es claro y alcanzable.",
+                "Ambas por igual, depende de la persona.",
+                "Ninguna, prefiero salario fijo."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La comisión ofrece pago por cada venta y no limita el techo de ingresos, incentivando mayores ventas."
+        },
+        {
+            "question": "129. Auxiliar administrativo comercial: resultado, comportamiento y rasgos de evaluación.",
+            "options": [
+                "Resultado: número de transacciones; Comportamiento: gestionar pedidos puntualmente; Rasgos: amabilidad y compromiso.",
+                "Resultado: asistencia; Comportamiento: horario; Rasgos: antigüedad.",
+                "Resultado: facturación; Comportamiento: puntualidad; Rasgos: liderazgo.",
+                "Resultado: ventas; Comportamiento: formación; Rasgos: creatividad."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Se miden transacciones, comportamiento organizativo y rasgos de trato con proveedores y seriedad."
+        },
+        {
+            "question": "130. Para jugar con ratio de selección y tasa básica, ¿en qué te fijas?",
+            "options": [
+                "En el número de candidatos aptos y vacantes, ya que el ratio es vacantes/candidatos y tasa básica aptos/solicitantes.",
+                "En el salario medio.",
+                "En la antigüedad.",
+                "En las horas de trabajo."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El ratio de selección relaciona vacantes con aptos; la tasa básica mide aptos sobre solicitantes, ajustando estos influye en ambos indicadores."
+        },
+        {
+            "question": "131. Si tienes 700 aspirantes y quieres que pasen 45, ¿qué tipo de técnica de selección usarías?",
+            "options": [
+                "Selección con filtro, descartando candidatos según características y conocimientos.",
+                "Entrevista estructurada a todos los candidatos.",
+                "Dinámicas de grupo.",
+                "Assessment center completo para todos."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La selección con filtro permite reducir gran número de aspirantes mediante criterios predefinidos hasta obtener el grupo deseado."
+        },
+        {
+            "question": "132. Ejemplo de proceso donde interactúan línea y staff.",
+            "options": [
+                "La línea comunica sus necesidades de candidatos (conocimientos y habilidades) al staff para reclutamiento.",
+                "El staff decide las necesidades técnico-operativas sin consulta.",
+                "La línea realiza todas las fases sin apoyo del staff.",
+                "El staff entrevista y la línea no interviene."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La línea define el perfil buscado y el staff ejecuta el reclutamiento y filtrado, combinando experiencia operativa y técnica de RRHH."
+        },
+        {
+            "question": "133. En selección interna con cuestionarios y entrevista, y nóminas externalizadas, ¿quién es línea y quién staff?",
+            "options": [
+                "La empresa pequeña es línea; la empresa externa (nóminas) es staff.",
+                "La empresa pequeña es staff; la externa es línea.",
+                "Ambas son línea.",
+                "Ambas son staff."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La línea realiza selección (cuestionarios y entrevistas) y el staff externalizado gestiona funciones de RRHH (nóminas, vacaciones)."
+        },
+        {
+            "question": "134. Para contratar un director de marketing sin levantar la liebre, ¿qué poner en el anuncio?",
+            "options": [
+                "No mencionar el nombre de la empresa y destacar beneficios del puesto y retribución.",
+                "Incluir nombre de la empresa y salario exacto.",
+                "Poner solo requisitos académicos.",
+                "Publicar oferta solo en intranet."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Omitir el nombre para mantener confidencialidad y resaltar ventajas para captar candidatos sin alertar al interior."
+        },
+        {
+            "question": "135. Para rediseñar puestos y potenciar movilidad funcional, ¿qué recomendarías y por qué?",
+            "options": [
+                "Alinear titulaciones dentro del grupo y solo perifunciones técnicas justificadas fuera de grupo.",
+                "Eliminar grupos profesionales.",
+                "Contratar temporalmente.",
+                "Fijar funciones rígidas sin movilidad."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Movilidad dentro del mismo grupo requiere titulaciones similares; entre grupos solo por razones técnicas u organizativas justificadas."
+        },
+        {
+            "question": "136. Comportamiento, rasgo y resultado de un conductor de guagua.",
+            "options": [
+                "Comportamiento: trato amable y saludo; Rasgo: responsabilidad; Resultado: cero quejas.",
+                "Comportamiento: velocidad alta; Rasgo: audacia; Resultado: más rutas.",
+                "Comportamiento: puntualidad; Rasgo: impaciencia; Resultado: menos pasajeros.",
+                "Comportamiento: limpieza; Rasgo: orden; Resultado: ahorro en combustible."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Evalúa trato cordial (comportamiento), responsabilidad (rasgo) y ausencia de quejas (resultado)."
+        },
+        {
+            "question": "137. Tres preguntas relevantes para entrevista en análisis de puestos y justificación.",
+            "options": [
+                "¿Qué tareas desempeña? ¿Qué nivel de peligrosidad tiene? ¿Qué conocimientos requiere? — revelan funciones, riesgos y requisitos.",
+                "¿Cuál es su salario? ¿Cómo es el clima? ¿Cuál es su horario? — no directamente puesto.",
+                "¿Qué formación prefiere? ¿Qué herramientas usa? ¿Qué certificaciones tiene? — incompleto.",
+                "¿Cómo evalúa su jefe? ¿Cómo evalúa su equipo? ¿Cómo evalúa la empresa? — no analiza puesto."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Estas preguntas son esenciales para conocer las funciones reales, riesgos del puesto y las competencias necesarias."
+        },
+        {
+            "question": "138. Desde el enfoque multidisciplinar de RRHH, ¿qué se debe hacer para establecer un sistema de incentivos?",
+            "options": [
+                "Definir indicadores de ventas o desempeño, ajustar recompensas al perfil motivacional, calcular rentabilidad y asegurar cumplimiento normativo.",
+                "Establecer sólo la parte económica sin considerar perfiles ni normativas.",
+                "Crear bonos aleatorios para todos los empleados.",
+                "Contratar una consultora externa sin involucrar a RRHH."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Se deben alinear los incentivos con métricas claras (ventas o desempeño), ajustar psicológicamente al perfil de los empleados, estudiar el coste-beneficio económico y garantizar el cumplimiento de convenios y normativa legal."
+        },
+        {
+            "question": "139. Tras el plan de ampliar segmento a cruceristas, ¿qué necesidad formativa a nivel individual plantearías en un restaurante de comida rápida?",
+            "options": [
+                "Formación en inglés conversacional y protocolos de atención internacional.",
+                "Curso avanzado de cocina vegana.",
+                "Entrenamiento en gestión financiera.",
+                "Taller de reparación de maquinaria de cocina."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Para atender eficazmente a turistas de cruceros se requiere formación específica en inglés funcional y protocolos de servicio al cliente internacional."
+        },
+        {
+            "question": "140. Ejemplo de utilidad del inventario de RRHH en un proceso de reducción de plantilla.",
+            "options": [
+                "Filtrar empleados por edad y condición física para reasignar o desvincular a quienes no pueden realizar tareas exigentes.",
+                "Eliminar empleados según antigüedad sin datos previos.",
+                "Despedir al azar para reducir costes rápidamente.",
+                "Reducir plantilla sin considerar competencias ni formación."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El inventario de RRHH facilita identificar características personales y de formación (edad, condiciones físicas) para tomar decisiones objetivas y alineadas con la capacidad de cada puesto."
+        },
+        {
+            "question": "141. ¿Por qué es relevante el análisis de puestos para RRHH en retribución y formación?",
+            "options": [
+                "Porque define tareas y nivel de complejidad para ajustar salarios y necesidades formativas.",
+                "Porque permite elaborar organigramas decorativos.",
+                "Porque reduce el número de empleados.",
+                "Porque acelera trámites administrativos."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El análisis de puestos identifica funciones, responsabilidades y conocimientos requeridos, lo cual es esencial para determinar la retribución adecuada y diseñar planes de formación específicos."
+        },
+        {
+            "question": "142. Problema con contrato de prácticas de 2 meses para titulados en supermercado y base de datos.",
+            "options": [
+                "El contrato en prácticas mínimo es de 6 meses, no de 2.",
+                "No permite remuneración.",
+                "Obliga a conversión a indefinido.",
+                "Requiere titulación de máster."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El contrato en prácticas exige una duración mínima de 6 meses, por lo que un periodo de solo 2 meses no cumple la normativa."
+        },
+        {
+            "question": "143. Curso de ventas: conducta favorable pero resultados no. ¿Qué puede estar pasando?",
+            "options": [
+                "El producto o mercado no favorece las ventas a pesar de la correcta conducta.",
+                "Los empleados no aplicaron la formación.",
+                "El test de conducta fue erróneo.",
+                "Los clientes no completaron encuestas."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Aunque la conducta refleja la transferencia de aprendizaje, los resultados pueden fallar por factores externos como calidad del producto o alta competencia."
+        },
+        {
+            "question": "144. Enfoque multidisciplinar al pagar horas extra: característica económica, legal y psicosociológica.",
+            "options": [
+                "Económico: mayor coste horario; Legal: máximo 80h al año o compensación; Psicosociológico: fatiga y motivación.",
+                "Económico: ahorro total; Legal: no regulación; Psicosociológico: sin impacto.",
+                "Económico: coste cero; Legal: teletrabajo obligatorio; Psicosociológico: aislamiento.",
+                "Económico: inversión en formaciones; Legal: exención de horas; Psicosociológico: satisfacción automática."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Las horas extra elevan el coste por hora, deben ajustarse a límites legales y afectar la motivación y el cansancio de los empleados."
+        },
+        {
+            "question": "145. Rotación del 40% en empaquetado: 2 motivos no indicativos de mala práctica.",
+            "options": [
+                "Estacionalidad y jubilaciones o reorganización técnica.",
+                "Baja remuneración e inseguridad.",
+                "Mala gestión y clima laboral.",
+                "Falta de formación y altos costes."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Los contratos estacionales y jubilaciones o cambios técnicos pueden elevar la rotación sin implicar malas prácticas empresariales."
+        },
+        {
+            "question": "146. Tres objetivos medibles y temporales para un director de colegio.",
+            "options": [
+                "Aumentar matrículas en 5% en periodo de inscripción; reducir absentismo en 10% en primer trimestre; mejorar satisfacción de padres en 15% en un año.",
+                "Incrementar visitas web; hacer reuniones semanales; mejorar infraestructura.",
+                "Reducir presupuesto; aumentar gastos; cambiar uniforme.",
+                "Contratar más profesores; abrir nuevas aulas; reorganizar horarios."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Objetivos SMART con indicador cuantitativo y plazo: matrículas, absentismo y satisfacción de padres con plazos definidos."
+        },
+        {
+            "question": "147. Tres preguntas para analizar puesto de médico y justificación.",
+            "options": [
+                "¿Qué tareas realiza? ¿Tiene personal a su cargo? ¿Cuáles son sus principales responsabilidades?",
+                "¿Cuál es su salario? ¿Qué formación tiene? ¿Qué edad tiene?",
+                "¿Cómo se relaciona con colegas? ¿Qué herramientas usa? ¿Qué turno prefiere?",
+                "¿Cuántos pacientes atiende? ¿Qué guardias hace? ¿Qué vacaciones pide?"
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Estas preguntas abiertas revelan las funciones, estructura de autoridad y responsabilidades del puesto, esenciales para el análisis de puestos."
+        },
+        {
+            "question": "148. Para Grupohotel con picos predecibles de nóminas, impuestos y auditorías, ¿qué medida de flexibilidad es más adecuada y por qué?",
+            "options": [
+                "Distribución irregular de la jornada, para ajustar horas sin coste extra.",
+                "Horas extras obligatorias, para cubrir picos.",
+                "Contrato temporal específico para cada pico.",
+                "Teletrabajo parcial para todos."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La distribución irregular permite ampliar o reducir la jornada según necesidad sin incrementar el salario, siendo ideal para picos previsibles."
+        },
+        {
+            "question": "149. ¿Por qué es preferible optar por suspensión de contratos por causas económicas en lugar de extinción?",
+            "options": [
+                "Porque la situación es coyuntural y se prevé recuperación, manteniendo la plantilla.",
+                "Porque evita costes de indemnización siempre.",
+                "Porque permite externalizar funciones.",
+                "Porque convierte contratos en indefinidos."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La suspensión permite retener trabajadores en crisis puntuales sin indemnización, recuperando la plantilla al mejorar la situación."
+        },
+        {
+            "question": "150. En una tabla de valoración de puestos, al añadir tareas comerciales a informáticos, ¿qué puntuaciones modificarías y por qué?",
+            "options": [
+                "Aumentar factores de habilidades interpersonales, disponibilidad horaria e impacto en ingresos para informáticos.",
+                "Reducir conocimientos técnicos.",
+                "Eliminar factor de peligro laboral.",
+                "Mantener todas las puntuaciones iguales."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Al asumir funciones comerciales, los informáticos requieren mayor puntuación en habilidades interpersonales, flexibilidad horaria e influencia en ingresos."
+        },
+        {
+            "question": "152. ¿Puede usarse escala de valoración de puestos para dar un bono por trabajar en equipo?",
+            "options": [
+                "No, porque la escala valora puestos; el bono es un incentivo individual ligado al rendimiento.",
+                "Sí, se puede convertir directamente en bono.",
+                "Sí, si se ajusta el salario.",
+                "No, porque no existe normativa."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La valoración de puestos mide equidad interna, no es herramienta para incentivos individuales, que dependen de la equidad y rendimiento."
+        },
+        {
+            "question": "153. Salarios al percentil 25 y petición de reducir costes, ¿es adecuada la estrategia? Justifica.",
+            "options": [
+                "No, porque pagar por debajo de la media dificulta retención y equidad externa.",
+                "Sí, para mejorar competitividad.",
+                "No, porque el percentil 25 indica salarios altos.",
+                "Sí, si se compensa con beneficios sociales."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Reducir costes empeoraría la posición salarial (percentil 25), aumentando riesgo de fuga de talento por falta de equidad externa."
+        },
+        {
+            "question": "154. Análisis multidisciplinar de retribución variable con acciones: un aspecto económico, legal y psicológico.",
+            "options": [
+                "Económico: coste de oportunidad; Legal: tratamiento en SS y patrimonio; Psicológico: sensación de propiedad.",
+                "Económico: ahorro inmediato; Legal: exención total; Psicológico: indiferencia.",
+                "Económico: aumento salarial fijo; Legal: contrato indefinido; Psicológico: desmotivación.",
+                "Económico: pago en especie; Legal: extinción de contrato; Psicológico: confusión."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Se debe evaluar el coste de oportunidad, el impacto fiscal y de patrimonio, y el efecto de motivación al sentirse accionista."
+        },
+        {
+            "question": "155. Empleados jóvenes reciben puntuaciones de rendimiento sistemáticamente más bajas que veteranos sin justificación: ¿qué error es y solución?",
+            "options": [
+                "Sesgo de estereotipo (prejuicio); formar al evaluador y usar criterios basados en resultados.",
+                "Efecto halo; evaluar solo a los mejores.",
+                "Tendencia central; usar solo puntuaciones medias.",
+                "Error de contraste; comparar con otros departamentos."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El sesgo de estereotipo da puntuaciones injustas según edad; la formación al evaluador y criterios objetivos basados en resultados ayudan a reducirlo."
+        },
+        {
+            "question": "156. Retribuciones variables más bajas para jóvenes debido a evaluaciones sesgadas: ¿qué tipo de equidad se ve afectada?",
+            "options": [
+                "Equidad individual, porque se comparan empleados del mismo nivel con distinto rendimiento.",
+                "Equidad interna distributiva, porque compara distintos puestos.",
+                "Equidad externa, porque compara con el mercado.",
+                "Equidad social, porque afecta al clima."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La equidad individual se basa en la valoración del rendimiento entre iguales; aquí los jóvenes reciben menos, rompiendo dicha equidad."
+        },
+        {
+            "question": "157. Formar al director financiero en evaluación de rendimiento: ¿a qué nivel de diagnóstico de necesidades corresponde?",
+            "options": [
+                "Nivel individual (humano), ya que se enfoca en la formación de esa persona.",
+                "Nivel organizativo, porque implica cambiar prácticas generales.",
+                "Nivel de puesto, porque se redefine la descripción del puesto.",
+                "Nivel sociológico, porque afecta al clima."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Es un diagnóstico individual porque la necesidad de formación se centra en el desarrollo de competencias específicas de esa persona."
+        },
+        {
+            "question": "159. Arquitecto junior sale y se contrata ETT temporal: ¿es posible legalmente y bajo qué modalidad?",
+            "options": [
+                "Sí, para sustitución durante el proceso de selección hasta cubrir la vacante.",
+                "No, porque ETT no puede cubrir vacantes.",
+                "Sí, con contrato indefinido a través de ETT.",
+                "No, solo se puede usar para interinidad."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La ETT puede contratar temporalmente trabajadores para sustituir ausencias o vacantes mientras se completa la selección."
+        },
+        {
+            "question": "160. Curso de evaluación del desempeño para mandos intermedios con objetivo de valorar la importancia: ¿qué tipo de objetivo formativo es?",
+            "options": [
+                "Objetivo actitudinal, porque busca convencer y generar valoración positiva.",
+                "Objetivo de habilidades, porque enseña técnicas.",
+                "Objetivo conceptual, porque explica teorías.",
+                "Objetivo de resultados, porque mide desempeño."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Es un objetivo actitudinal (actitud), pues pretende cambiar la percepción y valoración del proceso de evaluación de rendimiento."
+        },
+        {
+            "question": "161. Mark S.A. contrata servicios de mantenimiento informático pero directivos dirigen su trabajo ¿qué ocurre y por qué?",
+            "options": [
+                "Cesión ilegal de mano de obra, ya que Mark S.A. dirige y controla a empleados externos sin ETT.",
+                "Movilidad funcional, porque cambian funciones.",
+                "Trabajo temporal, porque es por un periodo breve.",
+                "Contratación indefinida, porque no hay fecha límite."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Es cesión ilegal de mano de obra: los directivos de Mark S.A. organizan y dirigen tareas de trabajadores de servicios, lo cual solo está permitido vía ETT."
+        },
+        {
+            "question": "162. ¿Es adecuada la jornada flexible para cubrir picos ocasionales al final del horario diario? ¿Por qué?",
+            "options": [
+                "No, porque el horario flexible es un derecho individual, no una obligación de ampliar jornada.",
+                "Sí, porque permite cubrir picos sin coste de horas extras.",
+                "No, porque solo aplica a teletrabajo.",
+                "Sí, si se avisa con 24 horas de antelación."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El horario flexible permite a los empleados ajustar su jornada, no obliga a la empresa a ampliar horas; para picos es más idóneo otros mecanismos como horas extras o distribución irregular."
+        },
+        {
+            "question": "163. Suspender contratos de guías turísticos en estacionalidad de junio a septiembre, ¿es posible? ¿Por qué?",
+            "options": [
+                "No, porque la estacionalidad no constituye causa objetiva de suspensión según normativa.",
+                "Sí, como causa organizativa.",
+                "Sí, con acuerdo sindical.",
+                "No, porque solo aplica a ETT."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La normativa exige causas económicas, técnicas, organizativas o de producción concretas; la mera estacionalidad no está incluida."
+        },
+        {
+            "question": "164. ¿Para qué prácticas de RRHH usar un mystery shopper? (Formación y rendimiento)",
+            "options": [
+                "Formación: evaluar al recepcionista con cliente ficticio; Rendimiento: medir capacidad de venta de un vendedor.",
+                "Formación: medir clima laboral; Rendimiento: evaluar puntualidad.",
+                "Formación: analizar salarios; Rendimiento: analizar absentismo.",
+                "Formación: auditoría interna; Rendimiento: análisis financiero."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "En formación, un cliente ficticio evalúa al recepcionista en atención e idiomas; en rendimiento, mide la capacidad de convicción y conocimiento de un vendedor ante ofertas."
+        },
+        {
+            "question": "165. Tres preguntas para entrevista en análisis de puestos y justificación.",
+            "options": [
+                "¿Qué función considera más importante? ¿Con qué frecuencia la realiza? ¿Cuánto tiempo le lleva cada actividad?",
+                "¿Cuál es su salario? ¿Qué formación tiene? ¿Qué edad tiene?",
+                "¿Cómo define éxito en su puesto? ¿Qué tecnologías usa? ¿Qué vacaciones prefiere?",
+                "¿Qué estilo de liderazgo aplica? ¿Qué metas tiene? ¿Qué idiomas habla?"
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Estas preguntas identifican las funciones principales, frecuencia y duración, permitiendo elaborar un manual detallado de puestos y actividades."
+        },
+        {
+            "question": "167. Enumera cinco opciones legales como alternativa al despido por causas económicas.",
+            "options": [
+                "Jubilación anticipada; prejubilación; trabajo compartido; reducción de jornada; reducción de salarios; excedencia o suspensión temporal.",
+                "Movilidad funcional; ETT; teletrabajo; outsourcing; subcontratación.",
+                "Horas extras; retribución en especie; formación interna; coaching; mentoring.",
+                "Contrato a tiempo parcial; contrato indefinido; contrato temporal; contrato de obra; contrato en prácticas."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Opciones legales incluidas en Estatuto de los Trabajadores: jubilación anticipada, prejubilación, trabajo compartido, reducción de jornada, reducción de salarios, excedencia o suspensión temporal."
+        },
+        {
+            "question": "168. Necesidad formativa individual tras ampliar segmento a cruceristas en restaurante de comida rápida.",
+            "options": [
+                "Formación en inglés y alemán hasta nivel medio, solo para quienes no lo dominen, tras examen.",
+                "Curso de cocina gourmet para todos los empleados.",
+                "Formación en contabilidad financiera.",
+                "Taller de marketing digital para todos."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Se requiere formación lingüística específica (inglés y alemán) para atender a cruceristas; se examina y forman solo quienes no cumplen el nivel mínimo."
+        },
+        {
+            "question": "169. Ejemplo de utilidad del inventario de RRHH para reducción de plantilla.",
+            "options": [
+                "Identificar mensajero con alto absentismo y baja carga de trabajo; reubicar funciones a secretaria con formación y experiencia.",
+                "Despedir al azar según antigüedad.",
+                "Reducir plantilla según orden alfabético.",
+                "Eliminar el puesto con menor salario."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El inventario muestra formación, cargas y absentismo; permite decidir objetivamente que el mensajero puede ser reemplazado por la secretaria con movilidad funcional."
+        },
+        {
+            "question": "170. Ejemplo de ventaja económica al distribuir irregularmente la jornada.",
+            "options": [
+                "En Navidad, contratar personal para empaquetado solo en picos y evitar horas extras permanentes.",
+                "Fijar turno único sin variaciones.",
+                "Cobrar menos a empleados por teletrabajo.",
+                "Aumentar salario durante picos de trabajo."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "Durante picos navideños se ajusta jornada y refuerza plantilla solo en días de mayor demanda, evitando costes fijos y horas extras excesivas."
+        },
+        {
+            "question": "171. Justifica la relevancia del análisis de puestos para RRHH en retribución y formación.",
+            "options": [
+                "Define exigencias y responsabilidades para establecer salarios adecuados y necesidades formativas específicas.",
+                "Permite crear organigramas sin utilidad práctica.",
+                "Reduce la plantilla automáticamente.",
+                "Acelera tramitación de nóminas sin más información."
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "El análisis de puestos identifica funciones y requisitos, base para valorar carga y complejidad del puesto y fijar retribución y planes de formación alineados."
+        },
+        {
+            "question": "172. Ejemplo de diferencia entre prueba de simulación y pregunta situacional para cajera de supermercado.",
+            "options": [
+                "Simulación: atender al cliente con producto caducado y ofrecer cambio; Pregunta: ¿qué haría si un cliente llega con un producto caducado exigiendo devolución?",
+                "Simulación: test teórico de productos; Pregunta: ¿qué redes sociales usa?",
+                "Simulación: examen de caja; Pregunta: ¿qué horario prefiere?",
+                "Simulación: observación pasiva; Pregunta: ¿cómo es su experiencia?"
+            ],
+            "correct": [
+                "a"
+            ],
+            "explanation": "La simulación recrea la venta y devolución real, mientras que la pregunta situacional indaga mediante un escenario hipotético cerrado."
+        }
+    ]
+}
